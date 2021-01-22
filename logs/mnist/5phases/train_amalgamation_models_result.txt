@@ -1,0 +1,1628 @@
+save_path: ../model\mnist\5phases\amalgamation_models\M_status02
+train_file_path_list: ['../datasets_folder\\mnist\\5phases\\accumulated/train_for_cls/mini_batch_train\\mini_batch02', '../datasets_folder\\mnist\\5phases\\separated/train/batch_train\\batch02']
+val_file_path_list: ['../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch01', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch02']
+model_load_path1: ../model\mnist\5phases\expert_models/expert_model_for_batch01
+model_load_path2: ../model\mnist\5phases\expert_models/expert_model_for_batch02
+Target student: rps_net_mlp
+Training ...
+Epoch 0, lr = 0.000100
+End of Epoch 0/100, Average Loss=2.262721
+validate on val set...
+001/100 | 0:00:09 | Train : loss = 2.2627 | Val : accuracy = 92.99975937399866%
+Epoch 1, lr = 0.000100
+End of Epoch 1/100, Average Loss=4.836707
+validate on val set...
+002/100 | 0:00:18 | Train : loss = 4.8367 | Val : accuracy = 92.2540292948635%
+Epoch 2, lr = 0.000100
+End of Epoch 2/100, Average Loss=5.262551
+validate on val set...
+003/100 | 0:00:27 | Train : loss = 5.2626 | Val : accuracy = 93.69737789290784%
+Epoch 3, lr = 0.000100
+End of Epoch 3/100, Average Loss=3.990534
+validate on val set...
+004/100 | 0:00:37 | Train : loss = 3.9905 | Val : accuracy = 91.41207599249888%
+Epoch 4, lr = 0.000100
+End of Epoch 4/100, Average Loss=4.048468
+validate on val set...
+005/100 | 0:00:46 | Train : loss = 4.0485 | Val : accuracy = 95.50156364229856%
+Epoch 5, lr = 0.000100
+End of Epoch 5/100, Average Loss=3.581792
+validate on val set...
+006/100 | 0:00:55 | Train : loss = 3.5818 | Val : accuracy = 92.54269902328187%
+Epoch 6, lr = 0.000100
+End of Epoch 6/100, Average Loss=3.839680
+validate on val set...
+007/100 | 0:01:04 | Train : loss = 3.8397 | Val : accuracy = 93.07192684648012%
+Epoch 7, lr = 0.000100
+End of Epoch 7/100, Average Loss=4.351225
+validate on val set...
+008/100 | 0:01:13 | Train : loss = 4.3512 | Val : accuracy = 94.05821500571267%
+Epoch 8, lr = 0.000100
+End of Epoch 8/100, Average Loss=4.556366
+validate on val set...
+009/100 | 0:01:22 | Train : loss = 4.5564 | Val : accuracy = 94.1303825020532%
+Epoch 9, lr = 0.000100
+End of Epoch 9/100, Average Loss=3.481540
+validate on val set...
+010/100 | 0:01:31 | Train : loss = 3.4815 | Val : accuracy = 94.58744282891092%
+Epoch 10, lr = 0.000100
+End of Epoch 10/100, Average Loss=3.628858
+validate on val set...
+011/100 | 0:01:40 | Train : loss = 3.6289 | Val : accuracy = 94.73177768577885%
+Epoch 11, lr = 0.000100
+End of Epoch 11/100, Average Loss=5.423398
+validate on val set...
+012/100 | 0:01:49 | Train : loss = 5.4234 | Val : accuracy = 95.28506128909011%
+Epoch 12, lr = 0.000100
+End of Epoch 12/100, Average Loss=3.358844
+validate on val set...
+013/100 | 0:01:58 | Train : loss = 3.3588 | Val : accuracy = 94.15443822894213%
+Epoch 13, lr = 0.000100
+End of Epoch 13/100, Average Loss=5.269579
+validate on val set...
+014/100 | 0:02:07 | Train : loss = 5.2696 | Val : accuracy = 91.41207593376889%
+Epoch 14, lr = 0.000100
+End of Epoch 14/100, Average Loss=3.108280
+validate on val set...
+015/100 | 0:02:16 | Train : loss = 3.1083 | Val : accuracy = 92.95164778440768%
+Epoch 15, lr = 0.000100
+End of Epoch 15/100, Average Loss=4.197213
+validate on val set...
+016/100 | 0:02:25 | Train : loss = 4.1972 | Val : accuracy = 92.18186182788797%
+Epoch 16, lr = 0.000100
+End of Epoch 16/100, Average Loss=3.631554
+validate on val set...
+017/100 | 0:02:34 | Train : loss = 3.6316 | Val : accuracy = 94.34688478735511%
+Epoch 17, lr = 0.000100
+End of Epoch 17/100, Average Loss=5.183666
+validate on val set...
+018/100 | 0:02:43 | Train : loss = 5.1837 | Val : accuracy = 93.74548949718131%
+Epoch 18, lr = 0.000100
+End of Epoch 18/100, Average Loss=3.565710
+validate on val set...
+019/100 | 0:02:52 | Train : loss = 3.5657 | Val : accuracy = 91.65263410196128%
+Epoch 19, lr = 0.000100
+End of Epoch 19/100, Average Loss=4.122160
+validate on val set...
+020/100 | 0:03:01 | Train : loss = 4.1222 | Val : accuracy = 94.73177767109635%
+Epoch 20, lr = 0.000100
+End of Epoch 20/100, Average Loss=4.969179
+validate on val set...
+021/100 | 0:03:10 | Train : loss = 4.9692 | Val : accuracy = 93.28842910241703%
+Epoch 21, lr = 0.000100
+End of Epoch 21/100, Average Loss=4.518440
+validate on val set...
+022/100 | 0:03:19 | Train : loss = 4.5184 | Val : accuracy = 94.56338707265701%
+Epoch 22, lr = 0.000100
+End of Epoch 22/100, Average Loss=3.708232
+validate on val set...
+023/100 | 0:03:28 | Train : loss = 3.7082 | Val : accuracy = 92.0134711854011%
+Epoch 23, lr = 0.000100
+End of Epoch 23/100, Average Loss=3.575716
+validate on val set...
+024/100 | 0:03:37 | Train : loss = 3.5757 | Val : accuracy = 94.05821502039517%
+Epoch 24, lr = 0.000100
+End of Epoch 24/100, Average Loss=4.193244
+validate on val set...
+025/100 | 0:03:46 | Train : loss = 4.1932 | Val : accuracy = 93.84171278831734%
+Epoch 25, lr = 0.000100
+End of Epoch 25/100, Average Loss=4.714928
+validate on val set...
+026/100 | 0:03:55 | Train : loss = 4.7149 | Val : accuracy = 94.90016832275978%
+Epoch 26, lr = 0.000100
+End of Epoch 26/100, Average Loss=3.647784
+validate on val set...
+027/100 | 0:04:04 | Train : loss = 3.6478 | Val : accuracy = 94.32282890997054%
+Epoch 27, lr = 0.000100
+End of Epoch 27/100, Average Loss=3.419953
+validate on val set...
+028/100 | 0:04:13 | Train : loss = 3.4200 | Val : accuracy = 93.93793594364023%
+Epoch 28, lr = 0.000100
+End of Epoch 28/100, Average Loss=4.042623
+validate on val set...
+029/100 | 0:04:22 | Train : loss = 4.0426 | Val : accuracy = 93.60115465499588%
+Epoch 29, lr = 0.000100
+End of Epoch 29/100, Average Loss=4.711288
+validate on val set...
+030/100 | 0:04:31 | Train : loss = 4.7113 | Val : accuracy = 93.91388013416223%
+Epoch 30, lr = 0.000100
+End of Epoch 30/100, Average Loss=4.169507
+validate on val set...
+031/100 | 0:04:40 | Train : loss = 4.1695 | Val : accuracy = 91.96535959581013%
+Epoch 31, lr = 0.000100
+End of Epoch 31/100, Average Loss=4.520278
+validate on val set...
+032/100 | 0:04:49 | Train : loss = 4.5203 | Val : accuracy = 95.0685589891057%
+Epoch 32, lr = 0.000100
+End of Epoch 32/100, Average Loss=3.952724
+validate on val set...
+033/100 | 0:04:58 | Train : loss = 3.9527 | Val : accuracy = 94.75583349525685%
+Epoch 33, lr = 0.000100
+End of Epoch 33/100, Average Loss=3.027225
+validate on val set...
+034/100 | 0:05:07 | Train : loss = 3.0272 | Val : accuracy = 93.5770988455179%
+Epoch 34, lr = 0.000100
+End of Epoch 34/100, Average Loss=4.608994
+validate on val set...
+035/100 | 0:05:16 | Train : loss = 4.6090 | Val : accuracy = 94.63555446254941%
+Epoch 35, lr = 0.000100
+End of Epoch 35/100, Average Loss=5.268469
+validate on val set...
+036/100 | 0:05:25 | Train : loss = 5.2685 | Val : accuracy = 93.36059651616848%
+Epoch 36, lr = 0.000100
+End of Epoch 36/100, Average Loss=5.259536
+validate on val set...
+037/100 | 0:05:34 | Train : loss = 5.2595 | Val : accuracy = 94.08227084455565%
+Epoch 37, lr = 0.000100
+End of Epoch 37/100, Average Loss=5.704395
+validate on val set...
+038/100 | 0:05:44 | Train : loss = 5.7044 | Val : accuracy = 93.88982432468424%
+Epoch 38, lr = 0.000100
+End of Epoch 38/100, Average Loss=3.688597
+validate on val set...
+039/100 | 0:05:53 | Train : loss = 3.6886 | Val : accuracy = 93.2643733608456%
+Epoch 39, lr = 0.000100
+End of Epoch 39/100, Average Loss=3.248114
+validate on val set...
+040/100 | 0:06:02 | Train : loss = 3.2481 | Val : accuracy = 93.07192678775012%
+Epoch 40, lr = 0.000100
+End of Epoch 40/100, Average Loss=4.414720
+validate on val set...
+041/100 | 0:06:11 | Train : loss = 4.4147 | Val : accuracy = 94.0101034161217%
+Epoch 41, lr = 0.000100
+End of Epoch 41/100, Average Loss=3.029436
+validate on val set...
+042/100 | 0:06:20 | Train : loss = 3.0294 | Val : accuracy = 94.70772192034838%
+Epoch 42, lr = 0.000100
+End of Epoch 42/100, Average Loss=3.737579
+validate on val set...
+043/100 | 0:06:29 | Train : loss = 3.7376 | Val : accuracy = 93.60115468436088%
+Epoch 43, lr = 0.000100
+End of Epoch 43/100, Average Loss=4.526279
+validate on val set...
+044/100 | 0:06:38 | Train : loss = 4.5263 | Val : accuracy = 93.19220583514006%
+Epoch 44, lr = 0.000100
+End of Epoch 44/100, Average Loss=4.440513
+validate on val set...
+045/100 | 0:06:47 | Train : loss = 4.4405 | Val : accuracy = 92.9035361214042%
+Epoch 45, lr = 0.000100
+End of Epoch 45/100, Average Loss=4.515379
+validate on val set...
+046/100 | 0:06:56 | Train : loss = 4.5154 | Val : accuracy = 94.94827992703325%
+Epoch 46, lr = 0.000100
+End of Epoch 46/100, Average Loss=3.799024
+validate on val set...
+047/100 | 0:07:05 | Train : loss = 3.7990 | Val : accuracy = 93.52898719719691%
+Epoch 47, lr = 0.000100
+End of Epoch 47/100, Average Loss=3.611310
+validate on val set...
+048/100 | 0:07:14 | Train : loss = 3.6113 | Val : accuracy = 94.29877308581005%
+Epoch 48, lr = 0.000100
+End of Epoch 48/100, Average Loss=5.552598
+validate on val set...
+049/100 | 0:07:23 | Train : loss = 5.5526 | Val : accuracy = 94.73177772432042%
+Epoch 49, lr = 0.000010
+End of Epoch 49/100, Average Loss=3.646569
+validate on val set...
+050/100 | 0:07:32 | Train : loss = 3.6466 | Val : accuracy = 93.9860475625962%
+Epoch 50, lr = 0.000010
+End of Epoch 50/100, Average Loss=3.531528
+validate on val set...
+051/100 | 0:07:41 | Train : loss = 3.5315 | Val : accuracy = 93.91388016352724%
+Epoch 51, lr = 0.000010
+End of Epoch 51/100, Average Loss=5.398948
+validate on val set...
+052/100 | 0:07:50 | Train : loss = 5.3989 | Val : accuracy = 93.91388011947973%
+Epoch 52, lr = 0.000010
+End of Epoch 52/100, Average Loss=4.136887
+validate on val set...
+053/100 | 0:07:59 | Train : loss = 4.1369 | Val : accuracy = 94.03415916686967%
+Epoch 53, lr = 0.000010
+End of Epoch 53/100, Average Loss=3.840639
+validate on val set...
+054/100 | 0:08:09 | Train : loss = 3.8406 | Val : accuracy = 93.9860475772787%
+Epoch 54, lr = 0.000010
+End of Epoch 54/100, Average Loss=4.005229
+validate on val set...
+055/100 | 0:08:18 | Train : loss = 4.0052 | Val : accuracy = 93.93793592895773%
+Epoch 55, lr = 0.000010
+End of Epoch 55/100, Average Loss=4.111377
+validate on val set...
+056/100 | 0:08:27 | Train : loss = 4.1114 | Val : accuracy = 94.13038243414664%
+Epoch 56, lr = 0.000010
+End of Epoch 56/100, Average Loss=3.903602
+validate on val set...
+057/100 | 0:08:36 | Train : loss = 3.9036 | Val : accuracy = 94.15443824362463%
+Epoch 57, lr = 0.000010
+End of Epoch 57/100, Average Loss=3.533454
+validate on val set...
+058/100 | 0:08:45 | Train : loss = 3.5335 | Val : accuracy = 94.05821500571267%
+Epoch 58, lr = 0.000010
+End of Epoch 58/100, Average Loss=4.091448
+validate on val set...
+059/100 | 0:08:54 | Train : loss = 4.0914 | Val : accuracy = 94.03415916686967%
+Epoch 59, lr = 0.000010
+End of Epoch 59/100, Average Loss=4.213547
+validate on val set...
+060/100 | 0:09:03 | Train : loss = 4.2135 | Val : accuracy = 94.05821503507767%
+Epoch 60, lr = 0.000010
+End of Epoch 60/100, Average Loss=4.066922
+validate on val set...
+061/100 | 0:09:12 | Train : loss = 4.0669 | Val : accuracy = 93.93793598768772%
+Epoch 61, lr = 0.000010
+End of Epoch 61/100, Average Loss=4.552243
+validate on val set...
+062/100 | 0:09:21 | Train : loss = 4.5522 | Val : accuracy = 94.05821502039517%
+Epoch 62, lr = 0.000010
+End of Epoch 62/100, Average Loss=2.705091
+validate on val set...
+063/100 | 0:09:30 | Train : loss = 2.7051 | Val : accuracy = 93.86576850052376%
+Epoch 63, lr = 0.000010
+End of Epoch 63/100, Average Loss=4.774564
+validate on val set...
+064/100 | 0:09:39 | Train : loss = 4.7746 | Val : accuracy = 93.81765688156777%
+Epoch 64, lr = 0.000010
+End of Epoch 64/100, Average Loss=4.880502
+validate on val set...
+065/100 | 0:09:48 | Train : loss = 4.8805 | Val : accuracy = 93.9860475772787%
+Epoch 65, lr = 0.000010
+End of Epoch 65/100, Average Loss=3.999698
+validate on val set...
+066/100 | 0:09:57 | Train : loss = 3.9997 | Val : accuracy = 93.88982433936674%
+Epoch 66, lr = 0.000010
+End of Epoch 66/100, Average Loss=2.812696
+validate on val set...
+067/100 | 0:10:06 | Train : loss = 2.8127 | Val : accuracy = 94.08227078582566%
+Epoch 67, lr = 0.000010
+End of Epoch 67/100, Average Loss=4.747272
+validate on val set...
+068/100 | 0:10:15 | Train : loss = 4.7473 | Val : accuracy = 93.91388013416223%
+Epoch 68, lr = 0.000010
+End of Epoch 68/100, Average Loss=4.228465
+validate on val set...
+069/100 | 0:10:24 | Train : loss = 4.2285 | Val : accuracy = 93.86576855925375%
+Epoch 69, lr = 0.000010
+End of Epoch 69/100, Average Loss=3.695519
+validate on val set...
+070/100 | 0:10:33 | Train : loss = 3.6955 | Val : accuracy = 93.91388011947973%
+Epoch 70, lr = 0.000010
+End of Epoch 70/100, Average Loss=3.872403
+validate on val set...
+071/100 | 0:10:42 | Train : loss = 3.8724 | Val : accuracy = 93.88982432468424%
+Epoch 71, lr = 0.000010
+End of Epoch 71/100, Average Loss=3.175195
+validate on val set...
+072/100 | 0:10:51 | Train : loss = 3.1752 | Val : accuracy = 93.74548954122882%
+Epoch 72, lr = 0.000010
+End of Epoch 72/100, Average Loss=4.804650
+validate on val set...
+073/100 | 0:11:00 | Train : loss = 4.8047 | Val : accuracy = 93.88982436873175%
+Epoch 73, lr = 0.000010
+End of Epoch 73/100, Average Loss=4.507093
+validate on val set...
+074/100 | 0:11:09 | Train : loss = 4.5071 | Val : accuracy = 93.93793595832273%
+Epoch 74, lr = 0.000010
+End of Epoch 74/100, Average Loss=4.444594
+validate on val set...
+075/100 | 0:11:18 | Train : loss = 4.4446 | Val : accuracy = 93.98604760664371%
+Epoch 75, lr = 0.000010
+End of Epoch 75/100, Average Loss=4.518310
+validate on val set...
+076/100 | 0:11:27 | Train : loss = 4.5183 | Val : accuracy = 93.86576852988875%
+Epoch 76, lr = 0.000010
+End of Epoch 76/100, Average Loss=3.797666
+validate on val set...
+077/100 | 0:11:36 | Train : loss = 3.7977 | Val : accuracy = 94.05821502039517%
+Epoch 77, lr = 0.000010
+End of Epoch 77/100, Average Loss=3.957342
+validate on val set...
+078/100 | 0:11:45 | Train : loss = 3.9573 | Val : accuracy = 93.9860475772787%
+Epoch 78, lr = 0.000010
+End of Epoch 78/100, Average Loss=3.365151
+validate on val set...
+079/100 | 0:11:54 | Train : loss = 3.3652 | Val : accuracy = 93.93793595832273%
+Epoch 79, lr = 0.000010
+End of Epoch 79/100, Average Loss=4.593894
+validate on val set...
+080/100 | 0:12:03 | Train : loss = 4.5939 | Val : accuracy = 93.9860475772787%
+Epoch 80, lr = 0.000010
+End of Epoch 80/100, Average Loss=3.412416
+validate on val set...
+081/100 | 0:12:12 | Train : loss = 3.4124 | Val : accuracy = 94.08227086841472%
+Epoch 81, lr = 0.000010
+End of Epoch 81/100, Average Loss=4.364126
+validate on val set...
+082/100 | 0:12:21 | Train : loss = 4.3641 | Val : accuracy = 93.7695452626118%
+Epoch 82, lr = 0.000010
+End of Epoch 82/100, Average Loss=5.969643
+validate on val set...
+083/100 | 0:12:30 | Train : loss = 5.9696 | Val : accuracy = 94.01010335739169%
+Epoch 83, lr = 0.000010
+End of Epoch 83/100, Average Loss=4.689922
+validate on val set...
+084/100 | 0:12:39 | Train : loss = 4.6899 | Val : accuracy = 94.05821503507767%
+Epoch 84, lr = 0.000010
+End of Epoch 84/100, Average Loss=5.394033
+validate on val set...
+085/100 | 0:12:48 | Train : loss = 5.3940 | Val : accuracy = 93.93793597300522%
+Epoch 85, lr = 0.000010
+End of Epoch 85/100, Average Loss=5.422549
+validate on val set...
+086/100 | 0:12:57 | Train : loss = 5.4225 | Val : accuracy = 93.84171277363484%
+Epoch 86, lr = 0.000010
+End of Epoch 86/100, Average Loss=4.668400
+validate on val set...
+087/100 | 0:13:06 | Train : loss = 4.6684 | Val : accuracy = 93.9860475625962%
+Epoch 87, lr = 0.000010
+End of Epoch 87/100, Average Loss=3.254919
+validate on val set...
+088/100 | 0:13:16 | Train : loss = 3.2549 | Val : accuracy = 94.05821497634767%
+Epoch 88, lr = 0.000010
+End of Epoch 88/100, Average Loss=3.174886
+validate on val set...
+089/100 | 0:13:25 | Train : loss = 3.1749 | Val : accuracy = 94.05821497634767%
+Epoch 89, lr = 0.000010
+End of Epoch 89/100, Average Loss=3.533595
+validate on val set...
+090/100 | 0:13:34 | Train : loss = 3.5336 | Val : accuracy = 93.93793592895773%
+Epoch 90, lr = 0.000010
+End of Epoch 90/100, Average Loss=4.516292
+validate on val set...
+091/100 | 0:13:43 | Train : loss = 4.5163 | Val : accuracy = 94.08227078582566%
+Epoch 91, lr = 0.000010
+End of Epoch 91/100, Average Loss=4.374055
+validate on val set...
+092/100 | 0:13:52 | Train : loss = 4.3741 | Val : accuracy = 94.01010343998075%
+Epoch 92, lr = 0.000010
+End of Epoch 92/100, Average Loss=3.960193
+validate on val set...
+093/100 | 0:14:01 | Train : loss = 3.9602 | Val : accuracy = 93.96199176780071%
+Epoch 93, lr = 0.000010
+End of Epoch 93/100, Average Loss=4.051971
+validate on val set...
+094/100 | 0:14:10 | Train : loss = 4.0520 | Val : accuracy = 94.01010335739169%
+Epoch 94, lr = 0.000010
+End of Epoch 94/100, Average Loss=5.535565
+validate on val set...
+095/100 | 0:14:19 | Train : loss = 5.5356 | Val : accuracy = 94.10632660998614%
+Epoch 95, lr = 0.000010
+End of Epoch 95/100, Average Loss=3.146637
+validate on val set...
+096/100 | 0:14:28 | Train : loss = 3.1466 | Val : accuracy = 94.08227082987315%
+Epoch 96, lr = 0.000010
+End of Epoch 96/100, Average Loss=2.451324
+validate on val set...
+097/100 | 0:14:37 | Train : loss = 2.4513 | Val : accuracy = 94.05821500571267%
+Epoch 97, lr = 0.000010
+End of Epoch 97/100, Average Loss=2.245136
+validate on val set...
+098/100 | 0:14:46 | Train : loss = 2.2451 | Val : accuracy = 94.01010345466325%
+Epoch 98, lr = 0.000010
+End of Epoch 98/100, Average Loss=3.805770
+validate on val set...
+099/100 | 0:14:55 | Train : loss = 3.8058 | Val : accuracy = 93.88982440727331%
+Epoch 99, lr = 0.000001
+End of Epoch 99/100, Average Loss=3.386200
+validate on val set...
+100/100 | 0:15:04 | Train : loss = 3.3862 | Val : accuracy = 93.9860475625962%
+save_path: ../model\mnist\5phases\amalgamation_models\M_status03
+train_file_path_list: ['../datasets_folder\\mnist\\5phases\\accumulated/train_for_cls/mini_batch_train\\mini_batch03', '../datasets_folder\\mnist\\5phases\\separated/train/batch_train\\batch03']
+val_file_path_list: ['../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch01', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch02', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch03']
+model_load_path1: ../model\mnist\5phases\amalgamation_models/M_status02
+model_load_path2: ../model\mnist\5phases\expert_models/expert_model_for_batch03
+Target student: rps_net_mlp
+Training ...
+Epoch 0, lr = 0.000100
+End of Epoch 0/100, Average Loss=10.345517
+validate on val set...
+001/100 | 0:00:09 | Train : loss = 10.3455 | Val : accuracy = 86.7849444410058%
+Epoch 1, lr = 0.000100
+End of Epoch 1/100, Average Loss=8.548447
+validate on val set...
+002/100 | 0:00:18 | Train : loss = 8.5484 | Val : accuracy = 89.47106615185757%
+Epoch 2, lr = 0.000100
+End of Epoch 2/100, Average Loss=9.365221
+validate on val set...
+003/100 | 0:00:27 | Train : loss = 9.3652 | Val : accuracy = 89.13944619466092%
+Epoch 3, lr = 0.000100
+End of Epoch 3/100, Average Loss=9.588551
+validate on val set...
+004/100 | 0:00:36 | Train : loss = 9.5886 | Val : accuracy = 90.46592603609784%
+Epoch 4, lr = 0.000100
+End of Epoch 4/100, Average Loss=8.603324
+validate on val set...
+005/100 | 0:00:46 | Train : loss = 8.6033 | Val : accuracy = 90.10114407622385%
+Epoch 5, lr = 0.000100
+End of Epoch 5/100, Average Loss=9.006954
+validate on val set...
+006/100 | 0:00:55 | Train : loss = 9.0070 | Val : accuracy = 90.41618304789472%
+Epoch 6, lr = 0.000100
+End of Epoch 6/100, Average Loss=9.226515
+validate on val set...
+007/100 | 0:01:04 | Train : loss = 9.2265 | Val : accuracy = 91.31155695572873%
+Epoch 7, lr = 0.000100
+End of Epoch 7/100, Average Loss=9.767435
+validate on val set...
+008/100 | 0:01:13 | Train : loss = 9.7674 | Val : accuracy = 90.66489801421092%
+Epoch 8, lr = 0.000100
+End of Epoch 8/100, Average Loss=9.042791
+validate on val set...
+009/100 | 0:01:22 | Train : loss = 9.0428 | Val : accuracy = 91.361299950257%
+Epoch 9, lr = 0.000100
+End of Epoch 9/100, Average Loss=9.468699
+validate on val set...
+010/100 | 0:01:31 | Train : loss = 9.4687 | Val : accuracy = 91.2783949530514%
+Epoch 10, lr = 0.000100
+End of Epoch 10/100, Average Loss=9.639837
+validate on val set...
+011/100 | 0:01:40 | Train : loss = 9.6398 | Val : accuracy = 90.8638700049743%
+Epoch 11, lr = 0.000100
+End of Epoch 11/100, Average Loss=8.669702
+validate on val set...
+012/100 | 0:01:49 | Train : loss = 8.6697 | Val : accuracy = 91.42762393663622%
+Epoch 12, lr = 0.000100
+End of Epoch 12/100, Average Loss=8.395925
+validate on val set...
+013/100 | 0:01:59 | Train : loss = 8.3959 | Val : accuracy = 90.91361299317742%
+Epoch 13, lr = 0.000100
+End of Epoch 13/100, Average Loss=9.499474
+validate on val set...
+014/100 | 0:02:08 | Train : loss = 9.4995 | Val : accuracy = 90.66489801421092%
+Epoch 14, lr = 0.000100
+End of Epoch 14/100, Average Loss=8.638977
+validate on val set...
+015/100 | 0:02:17 | Train : loss = 8.6390 | Val : accuracy = 91.09600396678927%
+Epoch 15, lr = 0.000100
+End of Epoch 15/100, Average Loss=8.898478
+validate on val set...
+016/100 | 0:02:26 | Train : loss = 8.8985 | Val : accuracy = 91.5271099193676%
+Epoch 16, lr = 0.000100
+End of Epoch 16/100, Average Loss=8.578627
+validate on val set...
+017/100 | 0:02:35 | Train : loss = 8.5786 | Val : accuracy = 91.69291991377881%
+Epoch 17, lr = 0.000100
+End of Epoch 17/100, Average Loss=8.317648
+validate on val set...
+018/100 | 0:02:44 | Train : loss = 8.3176 | Val : accuracy = 91.80898688836115%
+Epoch 18, lr = 0.000100
+End of Epoch 18/100, Average Loss=9.122717
+validate on val set...
+019/100 | 0:02:53 | Train : loss = 9.1227 | Val : accuracy = 91.46078593931355%
+Epoch 19, lr = 0.000100
+End of Epoch 19/100, Average Loss=9.114771
+validate on val set...
+020/100 | 0:03:02 | Train : loss = 9.1148 | Val : accuracy = 92.09086385735468%
+Epoch 20, lr = 0.000100
+End of Epoch 20/100, Average Loss=9.558133
+validate on val set...
+021/100 | 0:03:12 | Train : loss = 9.5581 | Val : accuracy = 91.77582489200897%
+Epoch 21, lr = 0.000100
+End of Epoch 21/100, Average Loss=8.721820
+validate on val set...
+022/100 | 0:03:21 | Train : loss = 8.7218 | Val : accuracy = 91.44420494113746%
+Epoch 22, lr = 0.000100
+End of Epoch 22/100, Average Loss=9.634427
+validate on val set...
+023/100 | 0:03:30 | Train : loss = 9.6344 | Val : accuracy = 91.31155694940358%
+Epoch 23, lr = 0.000100
+End of Epoch 23/100, Average Loss=8.685537
+validate on val set...
+024/100 | 0:03:39 | Train : loss = 8.6855 | Val : accuracy = 90.88045100315038%
+Epoch 24, lr = 0.000100
+End of Epoch 24/100, Average Loss=8.539200
+validate on val set...
+025/100 | 0:03:48 | Train : loss = 8.5392 | Val : accuracy = 91.77582490465926%
+Epoch 25, lr = 0.000100
+End of Epoch 25/100, Average Loss=9.003232
+validate on val set...
+026/100 | 0:03:57 | Train : loss = 9.0032 | Val : accuracy = 91.7924058965102%
+Epoch 26, lr = 0.000100
+End of Epoch 26/100, Average Loss=8.782011
+validate on val set...
+027/100 | 0:04:06 | Train : loss = 8.7820 | Val : accuracy = 91.61001491024805%
+Epoch 27, lr = 0.000100
+End of Epoch 27/100, Average Loss=8.919826
+validate on val set...
+028/100 | 0:04:15 | Train : loss = 8.9198 | Val : accuracy = 91.44420492848715%
+Epoch 28, lr = 0.000100
+End of Epoch 28/100, Average Loss=9.244465
+validate on val set...
+029/100 | 0:04:25 | Train : loss = 9.2445 | Val : accuracy = 91.95821588459626%
+Epoch 29, lr = 0.000100
+End of Epoch 29/100, Average Loss=9.166202
+validate on val set...
+030/100 | 0:04:34 | Train : loss = 9.1662 | Val : accuracy = 92.50538882440723%
+Epoch 30, lr = 0.000100
+End of Epoch 30/100, Average Loss=9.035664
+validate on val set...
+031/100 | 0:04:43 | Train : loss = 9.0357 | Val : accuracy = 91.6100149165732%
+Epoch 31, lr = 0.000100
+End of Epoch 31/100, Average Loss=7.632344
+validate on val set...
+032/100 | 0:04:52 | Train : loss = 7.6323 | Val : accuracy = 92.07428287182888%
+Epoch 32, lr = 0.000100
+End of Epoch 32/100, Average Loss=8.694889
+validate on val set...
+033/100 | 0:05:01 | Train : loss = 8.6949 | Val : accuracy = 92.4722268217299%
+Epoch 33, lr = 0.000100
+End of Epoch 33/100, Average Loss=9.162272
+validate on val set...
+034/100 | 0:05:10 | Train : loss = 9.1623 | Val : accuracy = 91.61001492289836%
+Epoch 34, lr = 0.000100
+End of Epoch 34/100, Average Loss=9.097409
+validate on val set...
+035/100 | 0:05:19 | Train : loss = 9.0974 | Val : accuracy = 92.00795886647423%
+Epoch 35, lr = 0.000100
+End of Epoch 35/100, Average Loss=8.556309
+validate on val set...
+036/100 | 0:05:28 | Train : loss = 8.5563 | Val : accuracy = 92.17376886088543%
+Epoch 36, lr = 0.000100
+End of Epoch 36/100, Average Loss=9.297128
+validate on val set...
+037/100 | 0:05:38 | Train : loss = 9.2971 | Val : accuracy = 92.52196980993303%
+Epoch 37, lr = 0.000100
+End of Epoch 37/100, Average Loss=9.579873
+validate on val set...
+038/100 | 0:05:47 | Train : loss = 9.5799 | Val : accuracy = 92.00795887912453%
+Epoch 38, lr = 0.000100
+End of Epoch 38/100, Average Loss=9.008743
+validate on val set...
+039/100 | 0:05:56 | Train : loss = 9.0087 | Val : accuracy = 91.95821587194595%
+Epoch 39, lr = 0.000100
+End of Epoch 39/100, Average Loss=9.465143
+validate on val set...
+040/100 | 0:06:05 | Train : loss = 9.4651 | Val : accuracy = 91.9582158782711%
+Epoch 40, lr = 0.000100
+End of Epoch 40/100, Average Loss=9.245378
+validate on val set...
+041/100 | 0:06:14 | Train : loss = 9.2454 | Val : accuracy = 91.41104293213498%
+Epoch 41, lr = 0.000100
+End of Epoch 41/100, Average Loss=8.444380
+validate on val set...
+042/100 | 0:06:23 | Train : loss = 8.4444 | Val : accuracy = 91.77582489833411%
+Epoch 42, lr = 0.000100
+End of Epoch 42/100, Average Loss=8.677459
+validate on val set...
+043/100 | 0:06:32 | Train : loss = 8.6775 | Val : accuracy = 91.84214889736361%
+Epoch 43, lr = 0.000100
+End of Epoch 43/100, Average Loss=9.691127
+validate on val set...
+044/100 | 0:06:41 | Train : loss = 9.6911 | Val : accuracy = 91.80898688836115%
+Epoch 44, lr = 0.000100
+End of Epoch 44/100, Average Loss=9.582809
+validate on val set...
+045/100 | 0:06:51 | Train : loss = 9.5828 | Val : accuracy = 91.75924390648316%
+Epoch 45, lr = 0.000100
+End of Epoch 45/100, Average Loss=8.650803
+validate on val set...
+046/100 | 0:07:00 | Train : loss = 8.6508 | Val : accuracy = 91.84214888471332%
+Epoch 46, lr = 0.000100
+End of Epoch 46/100, Average Loss=8.949310
+validate on val set...
+047/100 | 0:07:09 | Train : loss = 8.9493 | Val : accuracy = 92.00795887912453%
+Epoch 47, lr = 0.000100
+End of Epoch 47/100, Average Loss=8.564676
+validate on val set...
+048/100 | 0:07:18 | Train : loss = 8.5647 | Val : accuracy = 92.10744486818106%
+Epoch 48, lr = 0.000100
+End of Epoch 48/100, Average Loss=8.527933
+validate on val set...
+049/100 | 0:07:27 | Train : loss = 8.5279 | Val : accuracy = 92.22351185541369%
+Epoch 49, lr = 0.000010
+End of Epoch 49/100, Average Loss=9.161398
+validate on val set...
+050/100 | 0:07:36 | Train : loss = 9.1614 | Val : accuracy = 91.95821587194595%
+Epoch 50, lr = 0.000010
+End of Epoch 50/100, Average Loss=9.734707
+validate on val set...
+051/100 | 0:07:45 | Train : loss = 9.7347 | Val : accuracy = 91.82556789918753%
+Epoch 51, lr = 0.000010
+End of Epoch 51/100, Average Loss=9.075255
+validate on val set...
+052/100 | 0:07:54 | Train : loss = 9.0753 | Val : accuracy = 91.85872989553971%
+Epoch 52, lr = 0.000010
+End of Epoch 52/100, Average Loss=9.432665
+validate on val set...
+053/100 | 0:08:04 | Train : loss = 9.4327 | Val : accuracy = 91.84214889736361%
+Epoch 53, lr = 0.000010
+End of Epoch 53/100, Average Loss=9.756614
+validate on val set...
+054/100 | 0:08:13 | Train : loss = 9.7566 | Val : accuracy = 91.87531088739065%
+Epoch 54, lr = 0.000010
+End of Epoch 54/100, Average Loss=8.311690
+validate on val set...
+055/100 | 0:08:22 | Train : loss = 8.3117 | Val : accuracy = 91.80898690101144%
+Epoch 55, lr = 0.000010
+End of Epoch 55/100, Average Loss=9.304071
+validate on val set...
+056/100 | 0:08:31 | Train : loss = 9.3041 | Val : accuracy = 91.84214889736361%
+Epoch 56, lr = 0.000010
+End of Epoch 56/100, Average Loss=8.834858
+validate on val set...
+057/100 | 0:08:40 | Train : loss = 8.8349 | Val : accuracy = 91.84214889736361%
+Epoch 57, lr = 0.000010
+End of Epoch 57/100, Average Loss=8.932411
+validate on val set...
+058/100 | 0:08:49 | Train : loss = 8.9324 | Val : accuracy = 91.84214889103848%
+Epoch 58, lr = 0.000010
+End of Epoch 58/100, Average Loss=8.986086
+validate on val set...
+059/100 | 0:08:58 | Train : loss = 8.9861 | Val : accuracy = 91.77582489200897%
+Epoch 59, lr = 0.000010
+End of Epoch 59/100, Average Loss=8.908837
+validate on val set...
+060/100 | 0:09:07 | Train : loss = 8.9088 | Val : accuracy = 91.80898690101144%
+Epoch 60, lr = 0.000010
+End of Epoch 60/100, Average Loss=9.008044
+validate on val set...
+061/100 | 0:09:17 | Train : loss = 9.0080 | Val : accuracy = 91.82556788653723%
+Epoch 61, lr = 0.000010
+End of Epoch 61/100, Average Loss=9.126510
+validate on val set...
+062/100 | 0:09:26 | Train : loss = 9.1265 | Val : accuracy = 91.8753108810655%
+Epoch 62, lr = 0.000010
+End of Epoch 62/100, Average Loss=8.969362
+validate on val set...
+063/100 | 0:09:35 | Train : loss = 8.9694 | Val : accuracy = 91.8753108937158%
+Epoch 63, lr = 0.000010
+End of Epoch 63/100, Average Loss=8.878282
+validate on val set...
+064/100 | 0:09:44 | Train : loss = 8.8783 | Val : accuracy = 91.89189189189189%
+Epoch 64, lr = 0.000010
+End of Epoch 64/100, Average Loss=8.787775
+validate on val set...
+065/100 | 0:09:53 | Train : loss = 8.7878 | Val : accuracy = 91.82556789286238%
+Epoch 65, lr = 0.000010
+End of Epoch 65/100, Average Loss=9.165473
+validate on val set...
+066/100 | 0:10:02 | Train : loss = 9.1655 | Val : accuracy = 91.85872989553971%
+Epoch 66, lr = 0.000010
+End of Epoch 66/100, Average Loss=8.200631
+validate on val set...
+067/100 | 0:10:11 | Train : loss = 8.2006 | Val : accuracy = 91.94163487376987%
+Epoch 67, lr = 0.000010
+End of Epoch 67/100, Average Loss=8.847921
+validate on val set...
+068/100 | 0:10:21 | Train : loss = 8.8479 | Val : accuracy = 91.75924390015803%
+Epoch 68, lr = 0.000010
+End of Epoch 68/100, Average Loss=8.079227
+validate on val set...
+069/100 | 0:10:30 | Train : loss = 8.0792 | Val : accuracy = 91.82556788653723%
+Epoch 69, lr = 0.000010
+End of Epoch 69/100, Average Loss=8.832264
+validate on val set...
+070/100 | 0:10:39 | Train : loss = 8.8323 | Val : accuracy = 91.8753108937158%
+Epoch 70, lr = 0.000010
+End of Epoch 70/100, Average Loss=9.657967
+validate on val set...
+071/100 | 0:10:48 | Train : loss = 9.6580 | Val : accuracy = 91.8753108937158%
+Epoch 71, lr = 0.000010
+End of Epoch 71/100, Average Loss=9.123013
+validate on val set...
+072/100 | 0:10:57 | Train : loss = 9.1230 | Val : accuracy = 91.80898688836115%
+Epoch 72, lr = 0.000010
+End of Epoch 72/100, Average Loss=9.011538
+validate on val set...
+073/100 | 0:11:06 | Train : loss = 9.0115 | Val : accuracy = 91.74266290198193%
+Epoch 73, lr = 0.000010
+End of Epoch 73/100, Average Loss=9.846891
+validate on val set...
+074/100 | 0:11:15 | Train : loss = 9.8469 | Val : accuracy = 91.82556789286238%
+Epoch 74, lr = 0.000010
+End of Epoch 74/100, Average Loss=8.763144
+validate on val set...
+075/100 | 0:11:24 | Train : loss = 8.7631 | Val : accuracy = 91.82556788653723%
+Epoch 75, lr = 0.000010
+End of Epoch 75/100, Average Loss=8.113443
+validate on val set...
+076/100 | 0:11:33 | Train : loss = 8.1134 | Val : accuracy = 91.87531088739065%
+Epoch 76, lr = 0.000010
+End of Epoch 76/100, Average Loss=9.666829
+validate on val set...
+077/100 | 0:11:43 | Train : loss = 9.6668 | Val : accuracy = 91.80898689468629%
+Epoch 77, lr = 0.000010
+End of Epoch 77/100, Average Loss=9.465715
+validate on val set...
+078/100 | 0:11:52 | Train : loss = 9.4657 | Val : accuracy = 91.95821588459626%
+Epoch 78, lr = 0.000010
+End of Epoch 78/100, Average Loss=10.138499
+validate on val set...
+079/100 | 0:12:01 | Train : loss = 10.1385 | Val : accuracy = 91.89189188556675%
+Epoch 79, lr = 0.000010
+End of Epoch 79/100, Average Loss=9.225029
+validate on val set...
+080/100 | 0:12:10 | Train : loss = 9.2250 | Val : accuracy = 91.85872988921456%
+Epoch 80, lr = 0.000010
+End of Epoch 80/100, Average Loss=8.350273
+validate on val set...
+081/100 | 0:12:19 | Train : loss = 8.3503 | Val : accuracy = 91.75924389383287%
+Epoch 81, lr = 0.000010
+End of Epoch 81/100, Average Loss=8.934733
+validate on val set...
+082/100 | 0:12:28 | Train : loss = 8.9347 | Val : accuracy = 91.80898690101144%
+Epoch 82, lr = 0.000010
+End of Epoch 82/100, Average Loss=9.288106
+validate on val set...
+083/100 | 0:12:37 | Train : loss = 9.2881 | Val : accuracy = 91.95821588459626%
+Epoch 83, lr = 0.000010
+End of Epoch 83/100, Average Loss=9.474656
+validate on val set...
+084/100 | 0:12:46 | Train : loss = 9.4747 | Val : accuracy = 91.79240589018505%
+Epoch 84, lr = 0.000010
+End of Epoch 84/100, Average Loss=10.095936
+validate on val set...
+085/100 | 0:12:55 | Train : loss = 10.0959 | Val : accuracy = 91.8753108810655%
+Epoch 85, lr = 0.000010
+End of Epoch 85/100, Average Loss=8.627593
+validate on val set...
+086/100 | 0:13:05 | Train : loss = 8.6276 | Val : accuracy = 91.79240590283536%
+Epoch 86, lr = 0.000010
+End of Epoch 86/100, Average Loss=8.513536
+validate on val set...
+087/100 | 0:13:14 | Train : loss = 8.5135 | Val : accuracy = 91.94163487376987%
+Epoch 87, lr = 0.000010
+End of Epoch 87/100, Average Loss=7.730660
+validate on val set...
+088/100 | 0:13:23 | Train : loss = 7.7307 | Val : accuracy = 91.8753108810655%
+Epoch 88, lr = 0.000010
+End of Epoch 88/100, Average Loss=7.985230
+validate on val set...
+089/100 | 0:13:32 | Train : loss = 7.9852 | Val : accuracy = 91.90847287741768%
+Epoch 89, lr = 0.000010
+End of Epoch 89/100, Average Loss=9.787373
+validate on val set...
+090/100 | 0:13:41 | Train : loss = 9.7874 | Val : accuracy = 91.94163488642016%
+Epoch 90, lr = 0.000010
+End of Epoch 90/100, Average Loss=9.288939
+validate on val set...
+091/100 | 0:13:50 | Train : loss = 9.2889 | Val : accuracy = 91.8753108937158%
+Epoch 91, lr = 0.000010
+End of Epoch 91/100, Average Loss=9.498631
+validate on val set...
+092/100 | 0:13:59 | Train : loss = 9.4986 | Val : accuracy = 91.97479688277234%
+Epoch 92, lr = 0.000010
+End of Epoch 92/100, Average Loss=8.828905
+validate on val set...
+093/100 | 0:14:08 | Train : loss = 8.8289 | Val : accuracy = 91.72608191013099%
+Epoch 93, lr = 0.000010
+End of Epoch 93/100, Average Loss=8.873419
+validate on val set...
+094/100 | 0:14:18 | Train : loss = 8.8734 | Val : accuracy = 91.95821588459626%
+Epoch 94, lr = 0.000010
+End of Epoch 94/100, Average Loss=9.317863
+validate on val set...
+095/100 | 0:14:27 | Train : loss = 9.3179 | Val : accuracy = 91.6929199011285%
+Epoch 95, lr = 0.000010
+End of Epoch 95/100, Average Loss=8.803666
+validate on val set...
+096/100 | 0:14:36 | Train : loss = 8.8037 | Val : accuracy = 91.85872989553971%
+Epoch 96, lr = 0.000010
+End of Epoch 96/100, Average Loss=8.693776
+validate on val set...
+097/100 | 0:14:45 | Train : loss = 8.6938 | Val : accuracy = 91.8918918792416%
+Epoch 97, lr = 0.000010
+End of Epoch 97/100, Average Loss=9.664098
+validate on val set...
+098/100 | 0:14:54 | Train : loss = 9.6641 | Val : accuracy = 91.8918918792416%
+Epoch 98, lr = 0.000010
+End of Epoch 98/100, Average Loss=8.854610
+validate on val set...
+099/100 | 0:15:03 | Train : loss = 8.8546 | Val : accuracy = 91.82556788653723%
+Epoch 99, lr = 0.000001
+End of Epoch 99/100, Average Loss=9.821107
+validate on val set...
+100/100 | 0:15:12 | Train : loss = 9.8211 | Val : accuracy = 91.77582489200897%
+save_path: ../model\mnist\5phases\amalgamation_models\M_status04
+train_file_path_list: ['../datasets_folder\\mnist\\5phases\\accumulated/train_for_cls/mini_batch_train\\mini_batch04', '../datasets_folder\\mnist\\5phases\\separated/train/batch_train\\batch04']
+val_file_path_list: ['../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch01', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch02', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch03', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch04']
+model_load_path1: ../model\mnist\5phases\amalgamation_models/M_status03
+model_load_path2: ../model\mnist\5phases\expert_models/expert_model_for_batch04
+Target student: rps_net_mlp
+Training ...
+Epoch 0, lr = 0.000100
+End of Epoch 0/100, Average Loss=8.612989
+validate on val set...
+001/100 | 0:00:09 | Train : loss = 8.6130 | Val : accuracy = 85.8051640226372%
+Epoch 1, lr = 0.000100
+End of Epoch 1/100, Average Loss=9.498507
+validate on val set...
+002/100 | 0:00:19 | Train : loss = 9.4985 | Val : accuracy = 87.21466882493232%
+Epoch 2, lr = 0.000100
+End of Epoch 2/100, Average Loss=8.884043
+validate on val set...
+003/100 | 0:00:28 | Train : loss = 8.8840 | Val : accuracy = 87.83834351621334%
+Epoch 3, lr = 0.000100
+End of Epoch 3/100, Average Loss=7.502205
+validate on val set...
+004/100 | 0:00:38 | Train : loss = 7.5022 | Val : accuracy = 88.05039290363568%
+Epoch 4, lr = 0.000100
+End of Epoch 4/100, Average Loss=8.673833
+validate on val set...
+005/100 | 0:00:47 | Train : loss = 8.6738 | Val : accuracy = 88.29986278014809%
+Epoch 5, lr = 0.000100
+End of Epoch 5/100, Average Loss=8.995121
+validate on val set...
+006/100 | 0:00:56 | Train : loss = 8.9951 | Val : accuracy = 88.81127603461175%
+Epoch 6, lr = 0.000100
+End of Epoch 6/100, Average Loss=9.497393
+validate on val set...
+007/100 | 0:01:06 | Train : loss = 9.4974 | Val : accuracy = 89.16053386172914%
+Epoch 7, lr = 0.000100
+End of Epoch 7/100, Average Loss=8.337391
+validate on val set...
+008/100 | 0:01:15 | Train : loss = 8.3374 | Val : accuracy = 89.38505674297708%
+Epoch 8, lr = 0.000100
+End of Epoch 8/100, Average Loss=8.996843
+validate on val set...
+009/100 | 0:01:25 | Train : loss = 8.9968 | Val : accuracy = 89.89647000124735%
+Epoch 9, lr = 0.000100
+End of Epoch 9/100, Average Loss=8.522138
+validate on val set...
+010/100 | 0:01:34 | Train : loss = 8.5221 | Val : accuracy = 89.5097916888465%
+Epoch 10, lr = 0.000100
+End of Epoch 10/100, Average Loss=9.505952
+validate on val set...
+011/100 | 0:01:43 | Train : loss = 9.5060 | Val : accuracy = 89.85904951596387%
+Epoch 11, lr = 0.000100
+End of Epoch 11/100, Average Loss=9.532298
+validate on val set...
+012/100 | 0:01:53 | Train : loss = 9.5323 | Val : accuracy = 89.90894348365315%
+Epoch 12, lr = 0.000100
+End of Epoch 12/100, Average Loss=8.400466
+validate on val set...
+013/100 | 0:02:02 | Train : loss = 8.4005 | Val : accuracy = 90.05862542098042%
+Epoch 13, lr = 0.000100
+End of Epoch 13/100, Average Loss=8.940619
+validate on val set...
+014/100 | 0:02:12 | Train : loss = 8.9406 | Val : accuracy = 90.7945615452722%
+Epoch 14, lr = 0.000100
+End of Epoch 14/100, Average Loss=8.824715
+validate on val set...
+015/100 | 0:02:21 | Train : loss = 8.8247 | Val : accuracy = 90.57003866021765%
+Epoch 15, lr = 0.000100
+End of Epoch 15/100, Average Loss=8.468863
+validate on val set...
+016/100 | 0:02:31 | Train : loss = 8.4689 | Val : accuracy = 90.70724709229947%
+Epoch 16, lr = 0.000100
+End of Epoch 16/100, Average Loss=9.633838
+validate on val set...
+017/100 | 0:02:40 | Train : loss = 9.6338 | Val : accuracy = 90.74466758138955%
+Epoch 17, lr = 0.000100
+End of Epoch 17/100, Average Loss=8.898217
+validate on val set...
+018/100 | 0:02:49 | Train : loss = 8.8982 | Val : accuracy = 90.545091676373%
+Epoch 18, lr = 0.000100
+End of Epoch 18/100, Average Loss=9.197682
+validate on val set...
+019/100 | 0:02:59 | Train : loss = 9.1977 | Val : accuracy = 90.47025070961269%
+Epoch 19, lr = 0.000100
+End of Epoch 19/100, Average Loss=9.286005
+validate on val set...
+020/100 | 0:03:08 | Train : loss = 9.2860 | Val : accuracy = 90.66982661082261%
+Epoch 20, lr = 0.000100
+End of Epoch 20/100, Average Loss=7.635405
+validate on val set...
+021/100 | 0:03:17 | Train : loss = 7.6354 | Val : accuracy = 90.53261817874078%
+Epoch 21, lr = 0.000100
+End of Epoch 21/100, Average Loss=8.479974
+validate on val set...
+022/100 | 0:03:27 | Train : loss = 8.4800 | Val : accuracy = 90.52014469252838%
+Epoch 22, lr = 0.000100
+End of Epoch 22/100, Average Loss=9.446707
+validate on val set...
+023/100 | 0:03:36 | Train : loss = 9.4467 | Val : accuracy = 90.81950853673005%
+Epoch 23, lr = 0.000100
+End of Epoch 23/100, Average Loss=8.128995
+validate on val set...
+024/100 | 0:03:46 | Train : loss = 8.1290 | Val : accuracy = 90.70724709991269%
+Epoch 24, lr = 0.000100
+End of Epoch 24/100, Average Loss=8.635935
+validate on val set...
+025/100 | 0:03:55 | Train : loss = 8.6359 | Val : accuracy = 90.55756516639202%
+Epoch 25, lr = 0.000100
+End of Epoch 25/100, Average Loss=9.230784
+validate on val set...
+026/100 | 0:04:04 | Train : loss = 9.2308 | Val : accuracy = 90.90682299731601%
+Epoch 26, lr = 0.000100
+End of Epoch 26/100, Average Loss=8.630904
+validate on val set...
+027/100 | 0:04:14 | Train : loss = 8.6309 | Val : accuracy = 90.74466757377633%
+Epoch 27, lr = 0.000100
+End of Epoch 27/100, Average Loss=9.074437
+validate on val set...
+028/100 | 0:04:23 | Train : loss = 9.0744 | Val : accuracy = 90.85692902201352%
+Epoch 28, lr = 0.000100
+End of Epoch 28/100, Average Loss=9.841239
+validate on val set...
+029/100 | 0:04:33 | Train : loss = 9.8412 | Val : accuracy = 91.05650492322346%
+Epoch 29, lr = 0.000100
+End of Epoch 29/100, Average Loss=8.237720
+validate on val set...
+030/100 | 0:04:42 | Train : loss = 8.2377 | Val : accuracy = 90.66982661938748%
+Epoch 30, lr = 0.000100
+End of Epoch 30/100, Average Loss=8.521179
+validate on val set...
+031/100 | 0:04:51 | Train : loss = 8.5212 | Val : accuracy = 90.58251215784988%
+Epoch 31, lr = 0.000100
+End of Epoch 31/100, Average Loss=9.193291
+validate on val set...
+032/100 | 0:05:01 | Train : loss = 9.1933 | Val : accuracy = 90.58251215784988%
+Epoch 32, lr = 0.000100
+End of Epoch 32/100, Average Loss=8.110085
+validate on val set...
+033/100 | 0:05:10 | Train : loss = 8.1101 | Val : accuracy = 90.65735311699699%
+Epoch 33, lr = 0.000100
+End of Epoch 33/100, Average Loss=8.058137
+validate on val set...
+034/100 | 0:05:20 | Train : loss = 8.0581 | Val : accuracy = 90.6823001132131%
+Epoch 34, lr = 0.000100
+End of Epoch 34/100, Average Loss=8.506101
+validate on val set...
+035/100 | 0:05:29 | Train : loss = 8.5061 | Val : accuracy = 90.86940251964575%
+Epoch 35, lr = 0.000100
+End of Epoch 35/100, Average Loss=7.880174
+validate on val set...
+036/100 | 0:05:38 | Train : loss = 7.8802 | Val : accuracy = 90.45777721198046%
+Epoch 36, lr = 0.000100
+End of Epoch 36/100, Average Loss=8.536001
+validate on val set...
+037/100 | 0:05:48 | Train : loss = 8.5360 | Val : accuracy = 90.81950854434326%
+Epoch 37, lr = 0.000100
+End of Epoch 37/100, Average Loss=8.890812
+validate on val set...
+038/100 | 0:05:57 | Train : loss = 8.8908 | Val : accuracy = 91.11887238854494%
+Epoch 38, lr = 0.000100
+End of Epoch 38/100, Average Loss=7.818576
+validate on val set...
+039/100 | 0:06:07 | Train : loss = 7.8186 | Val : accuracy = 90.85692902201352%
+Epoch 39, lr = 0.000100
+End of Epoch 39/100, Average Loss=8.930558
+validate on val set...
+040/100 | 0:06:16 | Train : loss = 8.9306 | Val : accuracy = 90.45777721959367%
+Epoch 40, lr = 0.000100
+End of Epoch 40/100, Average Loss=8.310224
+validate on val set...
+041/100 | 0:06:25 | Train : loss = 8.3102 | Val : accuracy = 90.38293626044656%
+Epoch 41, lr = 0.000100
+End of Epoch 41/100, Average Loss=8.182110
+validate on val set...
+042/100 | 0:06:35 | Train : loss = 8.1821 | Val : accuracy = 90.48272421200316%
+Epoch 42, lr = 0.000100
+End of Epoch 42/100, Average Loss=8.880429
+validate on val set...
+043/100 | 0:06:44 | Train : loss = 8.8804 | Val : accuracy = 90.73219408756393%
+Epoch 43, lr = 0.000100
+End of Epoch 43/100, Average Loss=9.279692
+validate on val set...
+044/100 | 0:06:54 | Train : loss = 9.2797 | Val : accuracy = 90.37046276281433%
+Epoch 44, lr = 0.000100
+End of Epoch 44/100, Average Loss=9.130466
+validate on val set...
+045/100 | 0:07:03 | Train : loss = 9.1305 | Val : accuracy = 90.83198203055568%
+Epoch 45, lr = 0.000100
+End of Epoch 45/100, Average Loss=7.094471
+validate on val set...
+046/100 | 0:07:12 | Train : loss = 7.0945 | Val : accuracy = 90.65735311699699%
+Epoch 46, lr = 0.000100
+End of Epoch 46/100, Average Loss=8.902679
+validate on val set...
+047/100 | 0:07:22 | Train : loss = 8.9027 | Val : accuracy = 90.61993263552013%
+Epoch 47, lr = 0.000100
+End of Epoch 47/100, Average Loss=8.555023
+validate on val set...
+048/100 | 0:07:31 | Train : loss = 8.5550 | Val : accuracy = 91.00661094411436%
+Epoch 48, lr = 0.000100
+End of Epoch 48/100, Average Loss=7.380791
+validate on val set...
+049/100 | 0:07:41 | Train : loss = 7.3808 | Val : accuracy = 90.84445553199451%
+Epoch 49, lr = 0.000010
+End of Epoch 49/100, Average Loss=8.341591
+validate on val set...
+050/100 | 0:07:50 | Train : loss = 8.3416 | Val : accuracy = 90.76961456142757%
+Epoch 50, lr = 0.000010
+End of Epoch 50/100, Average Loss=8.652412
+validate on val set...
+051/100 | 0:07:59 | Train : loss = 8.6524 | Val : accuracy = 90.66982661843582%
+Epoch 51, lr = 0.000010
+End of Epoch 51/100, Average Loss=8.435946
+validate on val set...
+052/100 | 0:08:09 | Train : loss = 8.4359 | Val : accuracy = 90.80703503909783%
+Epoch 52, lr = 0.000010
+End of Epoch 52/100, Average Loss=8.564114
+validate on val set...
+053/100 | 0:08:18 | Train : loss = 8.5641 | Val : accuracy = 90.74466757758294%
+Epoch 53, lr = 0.000010
+End of Epoch 53/100, Average Loss=9.166468
+validate on val set...
+054/100 | 0:08:28 | Train : loss = 9.1665 | Val : accuracy = 90.83198203055568%
+Epoch 54, lr = 0.000010
+End of Epoch 54/100, Average Loss=8.758399
+validate on val set...
+055/100 | 0:08:37 | Train : loss = 8.7584 | Val : accuracy = 90.76961456523418%
+Epoch 55, lr = 0.000010
+End of Epoch 55/100, Average Loss=8.672425
+validate on val set...
+056/100 | 0:08:46 | Train : loss = 8.6724 | Val : accuracy = 90.73219407995072%
+Epoch 56, lr = 0.000010
+End of Epoch 56/100, Average Loss=7.735590
+validate on val set...
+057/100 | 0:08:56 | Train : loss = 7.7356 | Val : accuracy = 90.79456154907881%
+Epoch 57, lr = 0.000010
+End of Epoch 57/100, Average Loss=8.819446
+validate on val set...
+058/100 | 0:09:05 | Train : loss = 8.8194 | Val : accuracy = 90.74466756996972%
+Epoch 58, lr = 0.000010
+End of Epoch 58/100, Average Loss=9.671454
+validate on val set...
+059/100 | 0:09:15 | Train : loss = 9.6715 | Val : accuracy = 90.83198202674906%
+Epoch 59, lr = 0.000010
+End of Epoch 59/100, Average Loss=7.272462
+validate on val set...
+060/100 | 0:09:24 | Train : loss = 7.2725 | Val : accuracy = 90.76961456142757%
+Epoch 60, lr = 0.000010
+End of Epoch 60/100, Average Loss=8.242847
+validate on val set...
+061/100 | 0:09:33 | Train : loss = 8.2428 | Val : accuracy = 90.86940250822593%
+Epoch 61, lr = 0.000010
+End of Epoch 61/100, Average Loss=8.465141
+validate on val set...
+062/100 | 0:09:43 | Train : loss = 8.4651 | Val : accuracy = 90.7197205899317%
+Epoch 62, lr = 0.000010
+End of Epoch 62/100, Average Loss=8.654189
+validate on val set...
+063/100 | 0:09:52 | Train : loss = 8.6542 | Val : accuracy = 90.79456154907881%
+Epoch 63, lr = 0.000010
+End of Epoch 63/100, Average Loss=7.656236
+validate on val set...
+064/100 | 0:10:02 | Train : loss = 7.6562 | Val : accuracy = 90.79456154907881%
+Epoch 64, lr = 0.000010
+End of Epoch 64/100, Average Loss=7.954099
+validate on val set...
+065/100 | 0:10:11 | Train : loss = 7.9541 | Val : accuracy = 90.69477359847384%
+Epoch 65, lr = 0.000010
+End of Epoch 65/100, Average Loss=9.120790
+validate on val set...
+066/100 | 0:10:20 | Train : loss = 9.1208 | Val : accuracy = 90.79456155288543%
+Epoch 66, lr = 0.000010
+End of Epoch 66/100, Average Loss=8.521761
+validate on val set...
+067/100 | 0:10:30 | Train : loss = 8.5218 | Val : accuracy = 90.71972058612509%
+Epoch 67, lr = 0.000010
+End of Epoch 67/100, Average Loss=7.754650
+validate on val set...
+068/100 | 0:10:39 | Train : loss = 7.7546 | Val : accuracy = 90.64487962697797%
+Epoch 68, lr = 0.000010
+End of Epoch 68/100, Average Loss=9.876710
+validate on val set...
+069/100 | 0:10:49 | Train : loss = 9.8767 | Val : accuracy = 90.7820880552532%
+Epoch 69, lr = 0.000010
+End of Epoch 69/100, Average Loss=9.068367
+validate on val set...
+070/100 | 0:10:58 | Train : loss = 9.0684 | Val : accuracy = 90.7197205899317%
+Epoch 70, lr = 0.000010
+End of Epoch 70/100, Average Loss=8.679838
+validate on val set...
+071/100 | 0:11:07 | Train : loss = 8.6798 | Val : accuracy = 90.68230010845484%
+Epoch 71, lr = 0.000010
+End of Epoch 71/100, Average Loss=8.512143
+validate on val set...
+072/100 | 0:11:17 | Train : loss = 8.5121 | Val : accuracy = 90.68230010464823%
+Epoch 72, lr = 0.000010
+End of Epoch 72/100, Average Loss=9.701869
+validate on val set...
+073/100 | 0:11:26 | Train : loss = 9.7019 | Val : accuracy = 90.69477360228046%
+Epoch 73, lr = 0.000010
+End of Epoch 73/100, Average Loss=8.845566
+validate on val set...
+074/100 | 0:11:36 | Train : loss = 8.8456 | Val : accuracy = 90.73219408375732%
+Epoch 74, lr = 0.000010
+End of Epoch 74/100, Average Loss=7.907290
+validate on val set...
+075/100 | 0:11:45 | Train : loss = 7.9073 | Val : accuracy = 90.70724709229947%
+Epoch 75, lr = 0.000010
+End of Epoch 75/100, Average Loss=8.914420
+validate on val set...
+076/100 | 0:11:54 | Train : loss = 8.9144 | Val : accuracy = 90.73219408375732%
+Epoch 76, lr = 0.000010
+End of Epoch 76/100, Average Loss=8.435381
+validate on val set...
+077/100 | 0:12:04 | Train : loss = 8.4354 | Val : accuracy = 90.76961456904078%
+Epoch 77, lr = 0.000010
+End of Epoch 77/100, Average Loss=9.568622
+validate on val set...
+078/100 | 0:12:13 | Train : loss = 9.5686 | Val : accuracy = 90.65735311699699%
+Epoch 78, lr = 0.000010
+End of Epoch 78/100, Average Loss=8.245806
+validate on val set...
+079/100 | 0:12:23 | Train : loss = 8.2458 | Val : accuracy = 90.73219407995072%
+Epoch 79, lr = 0.000010
+End of Epoch 79/100, Average Loss=9.254866
+validate on val set...
+080/100 | 0:12:32 | Train : loss = 9.2549 | Val : accuracy = 90.69477359847384%
+Epoch 80, lr = 0.000010
+End of Epoch 80/100, Average Loss=8.708688
+validate on val set...
+081/100 | 0:12:41 | Train : loss = 8.7087 | Val : accuracy = 90.6074591378879%
+Epoch 81, lr = 0.000010
+End of Epoch 81/100, Average Loss=8.259966
+validate on val set...
+082/100 | 0:12:51 | Train : loss = 8.2600 | Val : accuracy = 90.66982661082261%
+Epoch 82, lr = 0.000010
+End of Epoch 82/100, Average Loss=8.421866
+validate on val set...
+083/100 | 0:13:00 | Train : loss = 8.4219 | Val : accuracy = 90.76961456523418%
+Epoch 83, lr = 0.000010
+End of Epoch 83/100, Average Loss=9.611427
+validate on val set...
+084/100 | 0:13:10 | Train : loss = 9.6114 | Val : accuracy = 90.79456154907881%
+Epoch 84, lr = 0.000010
+End of Epoch 84/100, Average Loss=7.820873
+validate on val set...
+085/100 | 0:13:19 | Train : loss = 7.8209 | Val : accuracy = 90.69477359466724%
+Epoch 85, lr = 0.000010
+End of Epoch 85/100, Average Loss=8.521472
+validate on val set...
+086/100 | 0:13:28 | Train : loss = 8.5215 | Val : accuracy = 90.6823001132131%
+Epoch 86, lr = 0.000010
+End of Epoch 86/100, Average Loss=8.551375
+validate on val set...
+087/100 | 0:13:38 | Train : loss = 8.5514 | Val : accuracy = 90.78208805144658%
+Epoch 87, lr = 0.000010
+End of Epoch 87/100, Average Loss=8.755170
+validate on val set...
+088/100 | 0:13:47 | Train : loss = 8.7552 | Val : accuracy = 90.58251215784988%
+Epoch 88, lr = 0.000010
+End of Epoch 88/100, Average Loss=9.450026
+validate on val set...
+089/100 | 0:13:57 | Train : loss = 9.4500 | Val : accuracy = 90.70724708849286%
+Epoch 89, lr = 0.000010
+End of Epoch 89/100, Average Loss=8.406947
+validate on val set...
+090/100 | 0:14:06 | Train : loss = 8.4069 | Val : accuracy = 90.7197205899317%
+Epoch 90, lr = 0.000010
+End of Epoch 90/100, Average Loss=8.692238
+validate on val set...
+091/100 | 0:14:16 | Train : loss = 8.6922 | Val : accuracy = 90.63240612553913%
+Epoch 91, lr = 0.000010
+End of Epoch 91/100, Average Loss=9.069578
+validate on val set...
+092/100 | 0:14:25 | Train : loss = 9.0696 | Val : accuracy = 90.7446675823412%
+Epoch 92, lr = 0.000010
+End of Epoch 92/100, Average Loss=9.265294
+validate on val set...
+093/100 | 0:14:34 | Train : loss = 9.2653 | Val : accuracy = 90.66982661462922%
+Epoch 93, lr = 0.000010
+End of Epoch 93/100, Average Loss=8.661762
+validate on val set...
+094/100 | 0:14:44 | Train : loss = 8.6618 | Val : accuracy = 90.65735311699699%
+Epoch 94, lr = 0.000010
+End of Epoch 94/100, Average Loss=9.044488
+validate on val set...
+095/100 | 0:14:53 | Train : loss = 9.0445 | Val : accuracy = 90.63240613315236%
+Epoch 95, lr = 0.000010
+End of Epoch 95/100, Average Loss=9.183864
+validate on val set...
+096/100 | 0:15:03 | Train : loss = 9.1839 | Val : accuracy = 90.65735311319038%
+Epoch 96, lr = 0.000010
+End of Epoch 96/100, Average Loss=7.807931
+validate on val set...
+097/100 | 0:15:12 | Train : loss = 7.8079 | Val : accuracy = 90.5949856554821%
+Epoch 97, lr = 0.000010
+End of Epoch 97/100, Average Loss=9.741820
+validate on val set...
+098/100 | 0:15:21 | Train : loss = 9.7418 | Val : accuracy = 90.65735312556185%
+Epoch 98, lr = 0.000010
+End of Epoch 98/100, Average Loss=8.958611
+validate on val set...
+099/100 | 0:15:31 | Train : loss = 8.9586 | Val : accuracy = 90.69477360228046%
+Epoch 99, lr = 0.000001
+End of Epoch 99/100, Average Loss=8.326101
+validate on val set...
+100/100 | 0:15:40 | Train : loss = 8.3261 | Val : accuracy = 90.69477359847384%
+save_path: ../model\mnist\5phases\amalgamation_models\M_status05
+train_file_path_list: ['../datasets_folder\\mnist\\5phases\\accumulated/train_for_cls/mini_batch_train\\mini_batch05', '../datasets_folder\\mnist\\5phases\\separated/train/batch_train\\batch05']
+val_file_path_list: ['../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch01', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch02', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch03', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch04', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch05']
+model_load_path1: ../model\mnist\5phases\amalgamation_models/M_status04
+model_load_path2: ../model\mnist\5phases\expert_models/expert_model_for_batch05
+Target student: rps_net_mlp
+Training ...
+Epoch 0, lr = 0.000100
+End of Epoch 0/100, Average Loss=11.736053
+validate on val set...
+001/100 | 0:00:10 | Train : loss = 11.7361 | Val : accuracy = 72.75%
+Epoch 1, lr = 0.000100
+End of Epoch 1/100, Average Loss=12.547796
+validate on val set...
+002/100 | 0:00:19 | Train : loss = 12.5478 | Val : accuracy = 77.47%
+Epoch 2, lr = 0.000100
+End of Epoch 2/100, Average Loss=11.710387
+validate on val set...
+003/100 | 0:00:29 | Train : loss = 11.7104 | Val : accuracy = 75.99%
+Epoch 3, lr = 0.000100
+End of Epoch 3/100, Average Loss=11.306694
+validate on val set...
+004/100 | 0:00:38 | Train : loss = 11.3067 | Val : accuracy = 78.22%
+Epoch 4, lr = 0.000100
+End of Epoch 4/100, Average Loss=10.757565
+validate on val set...
+005/100 | 0:00:48 | Train : loss = 10.7576 | Val : accuracy = 78.46%
+Epoch 5, lr = 0.000100
+End of Epoch 5/100, Average Loss=11.360263
+validate on val set...
+006/100 | 0:00:57 | Train : loss = 11.3603 | Val : accuracy = 78.84%
+Epoch 6, lr = 0.000100
+End of Epoch 6/100, Average Loss=11.898724
+validate on val set...
+007/100 | 0:01:07 | Train : loss = 11.8987 | Val : accuracy = 78.83%
+Epoch 7, lr = 0.000100
+End of Epoch 7/100, Average Loss=12.192998
+validate on val set...
+008/100 | 0:01:16 | Train : loss = 12.1930 | Val : accuracy = 80.6%
+Epoch 8, lr = 0.000100
+End of Epoch 8/100, Average Loss=10.657354
+validate on val set...
+009/100 | 0:01:26 | Train : loss = 10.6574 | Val : accuracy = 79.03%
+Epoch 9, lr = 0.000100
+End of Epoch 9/100, Average Loss=11.471353
+validate on val set...
+010/100 | 0:01:35 | Train : loss = 11.4714 | Val : accuracy = 81.71%
+Epoch 10, lr = 0.000100
+End of Epoch 10/100, Average Loss=12.127381
+validate on val set...
+011/100 | 0:01:45 | Train : loss = 12.1274 | Val : accuracy = 80.61%
+Epoch 11, lr = 0.000100
+End of Epoch 11/100, Average Loss=11.071224
+validate on val set...
+012/100 | 0:01:54 | Train : loss = 11.0712 | Val : accuracy = 78.88%
+Epoch 12, lr = 0.000100
+End of Epoch 12/100, Average Loss=11.558627
+validate on val set...
+013/100 | 0:02:04 | Train : loss = 11.5586 | Val : accuracy = 81.06%
+Epoch 13, lr = 0.000100
+End of Epoch 13/100, Average Loss=11.186362
+validate on val set...
+014/100 | 0:02:13 | Train : loss = 11.1864 | Val : accuracy = 81.33%
+Epoch 14, lr = 0.000100
+End of Epoch 14/100, Average Loss=12.133655
+validate on val set...
+015/100 | 0:02:23 | Train : loss = 12.1337 | Val : accuracy = 80.26%
+Epoch 15, lr = 0.000100
+End of Epoch 15/100, Average Loss=10.897048
+validate on val set...
+016/100 | 0:02:33 | Train : loss = 10.8970 | Val : accuracy = 80.97%
+Epoch 16, lr = 0.000100
+End of Epoch 16/100, Average Loss=12.004018
+validate on val set...
+017/100 | 0:02:42 | Train : loss = 12.0040 | Val : accuracy = 81.07%
+Epoch 17, lr = 0.000100
+End of Epoch 17/100, Average Loss=11.392579
+validate on val set...
+018/100 | 0:02:52 | Train : loss = 11.3926 | Val : accuracy = 81.06%
+Epoch 18, lr = 0.000100
+End of Epoch 18/100, Average Loss=11.057262
+validate on val set...
+019/100 | 0:03:01 | Train : loss = 11.0573 | Val : accuracy = 80.84%
+Epoch 19, lr = 0.000100
+End of Epoch 19/100, Average Loss=11.641382
+validate on val set...
+020/100 | 0:03:11 | Train : loss = 11.6414 | Val : accuracy = 81.74%
+Epoch 20, lr = 0.000100
+End of Epoch 20/100, Average Loss=11.380837
+validate on val set...
+021/100 | 0:03:20 | Train : loss = 11.3808 | Val : accuracy = 81.51%
+Epoch 21, lr = 0.000100
+End of Epoch 21/100, Average Loss=11.231111
+validate on val set...
+022/100 | 0:03:30 | Train : loss = 11.2311 | Val : accuracy = 81.09%
+Epoch 22, lr = 0.000100
+End of Epoch 22/100, Average Loss=11.346992
+validate on val set...
+023/100 | 0:03:39 | Train : loss = 11.3470 | Val : accuracy = 81.22%
+Epoch 23, lr = 0.000100
+End of Epoch 23/100, Average Loss=11.608061
+validate on val set...
+024/100 | 0:03:49 | Train : loss = 11.6081 | Val : accuracy = 81.24%
+Epoch 24, lr = 0.000100
+End of Epoch 24/100, Average Loss=10.871393
+validate on val set...
+025/100 | 0:03:59 | Train : loss = 10.8714 | Val : accuracy = 81.2%
+Epoch 25, lr = 0.000100
+End of Epoch 25/100, Average Loss=11.612226
+validate on val set...
+026/100 | 0:04:08 | Train : loss = 11.6122 | Val : accuracy = 81.95%
+Epoch 26, lr = 0.000100
+End of Epoch 26/100, Average Loss=11.520823
+validate on val set...
+027/100 | 0:04:18 | Train : loss = 11.5208 | Val : accuracy = 80.85%
+Epoch 27, lr = 0.000100
+End of Epoch 27/100, Average Loss=11.045206
+validate on val set...
+028/100 | 0:04:27 | Train : loss = 11.0452 | Val : accuracy = 80.77%
+Epoch 28, lr = 0.000100
+End of Epoch 28/100, Average Loss=11.613155
+validate on val set...
+029/100 | 0:04:37 | Train : loss = 11.6132 | Val : accuracy = 81.73%
+Epoch 29, lr = 0.000100
+End of Epoch 29/100, Average Loss=11.324735
+validate on val set...
+030/100 | 0:04:46 | Train : loss = 11.3247 | Val : accuracy = 81.42%
+Epoch 30, lr = 0.000100
+End of Epoch 30/100, Average Loss=11.553194
+validate on val set...
+031/100 | 0:04:56 | Train : loss = 11.5532 | Val : accuracy = 81.57%
+Epoch 31, lr = 0.000100
+End of Epoch 31/100, Average Loss=10.417327
+validate on val set...
+032/100 | 0:05:05 | Train : loss = 10.4173 | Val : accuracy = 81.41%
+Epoch 32, lr = 0.000100
+End of Epoch 32/100, Average Loss=11.663983
+validate on val set...
+033/100 | 0:05:15 | Train : loss = 11.6640 | Val : accuracy = 81.66%
+Epoch 33, lr = 0.000100
+End of Epoch 33/100, Average Loss=11.400581
+validate on val set...
+034/100 | 0:05:24 | Train : loss = 11.4006 | Val : accuracy = 82.41%
+Epoch 34, lr = 0.000100
+End of Epoch 34/100, Average Loss=10.973735
+validate on val set...
+035/100 | 0:05:34 | Train : loss = 10.9737 | Val : accuracy = 80.69%
+Epoch 35, lr = 0.000100
+End of Epoch 35/100, Average Loss=11.324417
+validate on val set...
+036/100 | 0:05:43 | Train : loss = 11.3244 | Val : accuracy = 81.66%
+Epoch 36, lr = 0.000100
+End of Epoch 36/100, Average Loss=11.155816
+validate on val set...
+037/100 | 0:05:53 | Train : loss = 11.1558 | Val : accuracy = 81.65%
+Epoch 37, lr = 0.000100
+End of Epoch 37/100, Average Loss=11.719484
+validate on val set...
+038/100 | 0:06:03 | Train : loss = 11.7195 | Val : accuracy = 82.4%
+Epoch 38, lr = 0.000100
+End of Epoch 38/100, Average Loss=11.860365
+validate on val set...
+039/100 | 0:06:12 | Train : loss = 11.8604 | Val : accuracy = 81.03%
+Epoch 39, lr = 0.000100
+End of Epoch 39/100, Average Loss=11.931031
+validate on val set...
+040/100 | 0:06:22 | Train : loss = 11.9310 | Val : accuracy = 82.33%
+Epoch 40, lr = 0.000100
+End of Epoch 40/100, Average Loss=11.811168
+validate on val set...
+041/100 | 0:06:31 | Train : loss = 11.8112 | Val : accuracy = 81.14%
+Epoch 41, lr = 0.000100
+End of Epoch 41/100, Average Loss=11.858600
+validate on val set...
+042/100 | 0:06:41 | Train : loss = 11.8586 | Val : accuracy = 81.99%
+Epoch 42, lr = 0.000100
+End of Epoch 42/100, Average Loss=10.649171
+validate on val set...
+043/100 | 0:06:50 | Train : loss = 10.6492 | Val : accuracy = 81.75%
+Epoch 43, lr = 0.000100
+End of Epoch 43/100, Average Loss=11.286174
+validate on val set...
+044/100 | 0:07:00 | Train : loss = 11.2862 | Val : accuracy = 82.08%
+Epoch 44, lr = 0.000100
+End of Epoch 44/100, Average Loss=10.742744
+validate on val set...
+045/100 | 0:07:09 | Train : loss = 10.7427 | Val : accuracy = 81.95%
+Epoch 45, lr = 0.000100
+End of Epoch 45/100, Average Loss=11.591557
+validate on val set...
+046/100 | 0:07:19 | Train : loss = 11.5916 | Val : accuracy = 80.58%
+Epoch 46, lr = 0.000100
+End of Epoch 46/100, Average Loss=11.658577
+validate on val set...
+047/100 | 0:07:28 | Train : loss = 11.6586 | Val : accuracy = 82.07%
+Epoch 47, lr = 0.000100
+End of Epoch 47/100, Average Loss=11.778516
+validate on val set...
+048/100 | 0:07:38 | Train : loss = 11.7785 | Val : accuracy = 81.38%
+Epoch 48, lr = 0.000100
+End of Epoch 48/100, Average Loss=11.344386
+validate on val set...
+049/100 | 0:07:47 | Train : loss = 11.3444 | Val : accuracy = 82.71%
+Epoch 49, lr = 0.000010
+End of Epoch 49/100, Average Loss=11.404431
+validate on val set...
+050/100 | 0:07:57 | Train : loss = 11.4044 | Val : accuracy = 81.53%
+Epoch 50, lr = 0.000010
+End of Epoch 50/100, Average Loss=11.201292
+validate on val set...
+051/100 | 0:08:06 | Train : loss = 11.2013 | Val : accuracy = 81.39%
+Epoch 51, lr = 0.000010
+End of Epoch 51/100, Average Loss=11.992879
+validate on val set...
+052/100 | 0:08:16 | Train : loss = 11.9929 | Val : accuracy = 81.53%
+Epoch 52, lr = 0.000010
+End of Epoch 52/100, Average Loss=10.754527
+validate on val set...
+053/100 | 0:08:26 | Train : loss = 10.7545 | Val : accuracy = 81.71%
+Epoch 53, lr = 0.000010
+End of Epoch 53/100, Average Loss=10.900130
+validate on val set...
+054/100 | 0:08:35 | Train : loss = 10.9001 | Val : accuracy = 81.94%
+Epoch 54, lr = 0.000010
+End of Epoch 54/100, Average Loss=11.959594
+validate on val set...
+055/100 | 0:08:45 | Train : loss = 11.9596 | Val : accuracy = 81.52%
+Epoch 55, lr = 0.000010
+End of Epoch 55/100, Average Loss=11.541734
+validate on val set...
+056/100 | 0:08:54 | Train : loss = 11.5417 | Val : accuracy = 81.27%
+Epoch 56, lr = 0.000010
+End of Epoch 56/100, Average Loss=10.403109
+validate on val set...
+057/100 | 0:09:04 | Train : loss = 10.4031 | Val : accuracy = 81.85%
+Epoch 57, lr = 0.000010
+End of Epoch 57/100, Average Loss=11.674067
+validate on val set...
+058/100 | 0:09:13 | Train : loss = 11.6741 | Val : accuracy = 81.53%
+Epoch 58, lr = 0.000010
+End of Epoch 58/100, Average Loss=11.504169
+validate on val set...
+059/100 | 0:09:23 | Train : loss = 11.5042 | Val : accuracy = 81.59%
+Epoch 59, lr = 0.000010
+End of Epoch 59/100, Average Loss=10.750487
+validate on val set...
+060/100 | 0:09:32 | Train : loss = 10.7505 | Val : accuracy = 81.39%
+Epoch 60, lr = 0.000010
+End of Epoch 60/100, Average Loss=11.940948
+validate on val set...
+061/100 | 0:09:42 | Train : loss = 11.9409 | Val : accuracy = 81.7%
+Epoch 61, lr = 0.000010
+End of Epoch 61/100, Average Loss=10.705897
+validate on val set...
+062/100 | 0:09:51 | Train : loss = 10.7059 | Val : accuracy = 81.36%
+Epoch 62, lr = 0.000010
+End of Epoch 62/100, Average Loss=11.271326
+validate on val set...
+063/100 | 0:10:01 | Train : loss = 11.2713 | Val : accuracy = 81.52%
+Epoch 63, lr = 0.000010
+End of Epoch 63/100, Average Loss=11.841422
+validate on val set...
+064/100 | 0:10:11 | Train : loss = 11.8414 | Val : accuracy = 81.76%
+Epoch 64, lr = 0.000010
+End of Epoch 64/100, Average Loss=11.806614
+validate on val set...
+065/100 | 0:10:20 | Train : loss = 11.8066 | Val : accuracy = 81.58%
+Epoch 65, lr = 0.000010
+End of Epoch 65/100, Average Loss=11.718358
+validate on val set...
+066/100 | 0:10:30 | Train : loss = 11.7184 | Val : accuracy = 81.67%
+Epoch 66, lr = 0.000010
+End of Epoch 66/100, Average Loss=11.683466
+validate on val set...
+067/100 | 0:10:39 | Train : loss = 11.6835 | Val : accuracy = 81.52%
+Epoch 67, lr = 0.000010
+End of Epoch 67/100, Average Loss=11.345725
+validate on val set...
+068/100 | 0:10:49 | Train : loss = 11.3457 | Val : accuracy = 81.49%
+Epoch 68, lr = 0.000010
+End of Epoch 68/100, Average Loss=11.150460
+validate on val set...
+069/100 | 0:10:58 | Train : loss = 11.1505 | Val : accuracy = 81.41%
+Epoch 69, lr = 0.000010
+End of Epoch 69/100, Average Loss=11.130079
+validate on val set...
+070/100 | 0:11:08 | Train : loss = 11.1301 | Val : accuracy = 81.4%
+Epoch 70, lr = 0.000010
+End of Epoch 70/100, Average Loss=11.437508
+validate on val set...
+071/100 | 0:11:17 | Train : loss = 11.4375 | Val : accuracy = 81.59%
+Epoch 71, lr = 0.000010
+End of Epoch 71/100, Average Loss=11.228707
+validate on val set...
+072/100 | 0:11:27 | Train : loss = 11.2287 | Val : accuracy = 81.37%
+Epoch 72, lr = 0.000010
+End of Epoch 72/100, Average Loss=11.541307
+validate on val set...
+073/100 | 0:11:36 | Train : loss = 11.5413 | Val : accuracy = 81.35%
+Epoch 73, lr = 0.000010
+End of Epoch 73/100, Average Loss=10.943284
+validate on val set...
+074/100 | 0:11:46 | Train : loss = 10.9433 | Val : accuracy = 81.23%
+Epoch 74, lr = 0.000010
+End of Epoch 74/100, Average Loss=10.988695
+validate on val set...
+075/100 | 0:11:55 | Train : loss = 10.9887 | Val : accuracy = 81.14%
+Epoch 75, lr = 0.000010
+End of Epoch 75/100, Average Loss=11.370896
+validate on val set...
+076/100 | 0:12:05 | Train : loss = 11.3709 | Val : accuracy = 81.66%
+Epoch 76, lr = 0.000010
+End of Epoch 76/100, Average Loss=11.950517
+validate on val set...
+077/100 | 0:12:14 | Train : loss = 11.9505 | Val : accuracy = 81.51%
+Epoch 77, lr = 0.000010
+End of Epoch 77/100, Average Loss=11.668414
+validate on val set...
+078/100 | 0:12:24 | Train : loss = 11.6684 | Val : accuracy = 81.7%
+Epoch 78, lr = 0.000010
+End of Epoch 78/100, Average Loss=10.813412
+validate on val set...
+079/100 | 0:12:34 | Train : loss = 10.8134 | Val : accuracy = 81.63%
+Epoch 79, lr = 0.000010
+End of Epoch 79/100, Average Loss=11.020007
+validate on val set...
+080/100 | 0:12:43 | Train : loss = 11.0200 | Val : accuracy = 81.38%
+Epoch 80, lr = 0.000010
+End of Epoch 80/100, Average Loss=11.452387
+validate on val set...
+081/100 | 0:12:53 | Train : loss = 11.4524 | Val : accuracy = 81.54%
+Epoch 81, lr = 0.000010
+End of Epoch 81/100, Average Loss=11.089400
+validate on val set...
+082/100 | 0:13:02 | Train : loss = 11.0894 | Val : accuracy = 81.73%
+Epoch 82, lr = 0.000010
+End of Epoch 82/100, Average Loss=11.707350
+validate on val set...
+083/100 | 0:13:12 | Train : loss = 11.7073 | Val : accuracy = 81.48%
+Epoch 83, lr = 0.000010
+End of Epoch 83/100, Average Loss=12.147911
+validate on val set...
+084/100 | 0:13:21 | Train : loss = 12.1479 | Val : accuracy = 81.32%
+Epoch 84, lr = 0.000010
+End of Epoch 84/100, Average Loss=10.780989
+validate on val set...
+085/100 | 0:13:31 | Train : loss = 10.7810 | Val : accuracy = 81.61%
+Epoch 85, lr = 0.000010
+End of Epoch 85/100, Average Loss=11.678421
+validate on val set...
+086/100 | 0:13:40 | Train : loss = 11.6784 | Val : accuracy = 81.7%
+Epoch 86, lr = 0.000010
+End of Epoch 86/100, Average Loss=10.885628
+validate on val set...
+087/100 | 0:13:50 | Train : loss = 10.8856 | Val : accuracy = 81.4%
+Epoch 87, lr = 0.000010
+End of Epoch 87/100, Average Loss=11.094192
+validate on val set...
+088/100 | 0:14:00 | Train : loss = 11.0942 | Val : accuracy = 81.78%
+Epoch 88, lr = 0.000010
+End of Epoch 88/100, Average Loss=10.886959
+validate on val set...
+089/100 | 0:14:09 | Train : loss = 10.8870 | Val : accuracy = 81.74%
+Epoch 89, lr = 0.000010
+End of Epoch 89/100, Average Loss=11.200376
+validate on val set...
+090/100 | 0:14:19 | Train : loss = 11.2004 | Val : accuracy = 81.7%
+Epoch 90, lr = 0.000010
+End of Epoch 90/100, Average Loss=11.113721
+validate on val set...
+091/100 | 0:14:28 | Train : loss = 11.1137 | Val : accuracy = 81.6%
+Epoch 91, lr = 0.000010
+End of Epoch 91/100, Average Loss=11.443521
+validate on val set...
+092/100 | 0:14:38 | Train : loss = 11.4435 | Val : accuracy = 81.32%
+Epoch 92, lr = 0.000010
+End of Epoch 92/100, Average Loss=11.157658
+validate on val set...
+093/100 | 0:14:47 | Train : loss = 11.1577 | Val : accuracy = 81.84%
+Epoch 93, lr = 0.000010
+End of Epoch 93/100, Average Loss=10.755509
+validate on val set...
+094/100 | 0:14:57 | Train : loss = 10.7555 | Val : accuracy = 81.69%
+Epoch 94, lr = 0.000010
+End of Epoch 94/100, Average Loss=11.201914
+validate on val set...
+095/100 | 0:15:06 | Train : loss = 11.2019 | Val : accuracy = 81.55%
+Epoch 95, lr = 0.000010
+End of Epoch 95/100, Average Loss=11.527278
+validate on val set...
+096/100 | 0:15:16 | Train : loss = 11.5273 | Val : accuracy = 81.5%
+Epoch 96, lr = 0.000010
+End of Epoch 96/100, Average Loss=11.253887
+validate on val set...
+097/100 | 0:15:25 | Train : loss = 11.2539 | Val : accuracy = 81.36%
+Epoch 97, lr = 0.000010
+End of Epoch 97/100, Average Loss=11.004390
+validate on val set...
+098/100 | 0:15:35 | Train : loss = 11.0044 | Val : accuracy = 81.44%
+Epoch 98, lr = 0.000010
+End of Epoch 98/100, Average Loss=10.840704
+validate on val set...
+099/100 | 0:15:44 | Train : loss = 10.8407 | Val : accuracy = 81.44%
+Epoch 99, lr = 0.000001
+End of Epoch 99/100, Average Loss=12.173701
+validate on val set...
+100/100 | 0:15:54 | Train : loss = 12.1737 | Val : accuracy = 81.56%

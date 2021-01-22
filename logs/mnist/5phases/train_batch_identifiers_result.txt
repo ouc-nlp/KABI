@@ -1,0 +1,2066 @@
+save_path: ../model\mnist\5phases\batch_identifiers\M_status02
+train_file_path_list: ['../datasets_folder\\mnist\\5phases\\accumulated/train_for_batch/mini_batch_train/mini_batch02']
+val_file_path_list: ['../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch01', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch02']
+model_load_path: ../model\mnist\5phases\amalgamation_models/M_status02
+Epoch 0, lr = 0.000100
+Epoch 0, Batch 30/63, Loss=0.249561
+Epoch 0, Batch 60/63, Loss=0.048867
+End of Epoch 0/50, Average Loss=0.002286
+validate on val set...
+
+Overall Acc: 0.990859
+Mean Acc: 0.990814
+FreqW Acc: 0.981882
+Mean IoU: 0.981876
+
+Epoch 1, lr = 0.000100
+Epoch 1, Batch 30/63, Loss=0.028775
+Epoch 1, Batch 60/63, Loss=0.042694
+End of Epoch 1/50, Average Loss=0.000574
+validate on val set...
+
+Overall Acc: 0.992543
+Mean Acc: 0.992562
+FreqW Acc: 0.985196
+Mean IoU: 0.985192
+
+Epoch 2, lr = 0.000100
+Epoch 2, Batch 30/63, Loss=0.026839
+Epoch 2, Batch 60/63, Loss=0.022291
+End of Epoch 2/50, Average Loss=0.000377
+validate on val set...
+
+Overall Acc: 0.993024
+Mean Acc: 0.992984
+FreqW Acc: 0.986144
+Mean IoU: 0.986139
+
+Epoch 3, lr = 0.000100
+Epoch 3, Batch 30/63, Loss=0.019540
+Epoch 3, Batch 60/63, Loss=0.015104
+End of Epoch 3/50, Average Loss=0.000281
+validate on val set...
+
+Overall Acc: 0.993505
+Mean Acc: 0.993490
+FreqW Acc: 0.987094
+Mean IoU: 0.987089
+
+Epoch 4, lr = 0.000100
+Epoch 4, Batch 30/63, Loss=0.011644
+Epoch 4, Batch 60/63, Loss=0.011732
+End of Epoch 4/50, Average Loss=0.000181
+validate on val set...
+
+Overall Acc: 0.994227
+Mean Acc: 0.994216
+FreqW Acc: 0.988519
+Mean IoU: 0.988516
+
+Epoch 5, lr = 0.000100
+Epoch 5, Batch 30/63, Loss=0.008420
+Epoch 5, Batch 60/63, Loss=0.009266
+End of Epoch 5/50, Average Loss=0.000136
+validate on val set...
+
+Overall Acc: 0.993986
+Mean Acc: 0.993988
+FreqW Acc: 0.988044
+Mean IoU: 0.988040
+
+Epoch 6, lr = 0.000100
+Epoch 6, Batch 30/63, Loss=0.004058
+Epoch 6, Batch 60/63, Loss=0.008274
+End of Epoch 6/50, Average Loss=0.000098
+validate on val set...
+
+Overall Acc: 0.993745
+Mean Acc: 0.993718
+FreqW Acc: 0.987568
+Mean IoU: 0.987564
+
+Epoch 7, lr = 0.000100
+Epoch 7, Batch 30/63, Loss=0.004481
+Epoch 7, Batch 60/63, Loss=0.004370
+End of Epoch 7/50, Average Loss=0.000070
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994444
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 8, lr = 0.000100
+Epoch 8, Batch 30/63, Loss=0.002169
+Epoch 8, Batch 60/63, Loss=0.002889
+End of Epoch 8/50, Average Loss=0.000039
+validate on val set...
+
+Overall Acc: 0.994708
+Mean Acc: 0.994681
+FreqW Acc: 0.989471
+Mean IoU: 0.989467
+
+Epoch 9, lr = 0.000100
+Epoch 9, Batch 30/63, Loss=0.001539
+Epoch 9, Batch 60/63, Loss=0.001695
+End of Epoch 9/50, Average Loss=0.000028
+validate on val set...
+
+Overall Acc: 0.993986
+Mean Acc: 0.993938
+FreqW Acc: 0.988043
+Mean IoU: 0.988039
+
+Epoch 10, lr = 0.000100
+Epoch 10, Batch 30/63, Loss=0.001561
+Epoch 10, Batch 60/63, Loss=0.001134
+End of Epoch 10/50, Average Loss=0.000021
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 11, lr = 0.000100
+Epoch 11, Batch 30/63, Loss=0.000936
+Epoch 11, Batch 60/63, Loss=0.000948
+End of Epoch 11/50, Average Loss=0.000015
+validate on val set...
+
+Overall Acc: 0.994708
+Mean Acc: 0.994672
+FreqW Acc: 0.989471
+Mean IoU: 0.989467
+
+Epoch 12, lr = 0.000100
+Epoch 12, Batch 30/63, Loss=0.000688
+Epoch 12, Batch 60/63, Loss=0.000856
+End of Epoch 12/50, Average Loss=0.000012
+validate on val set...
+
+Overall Acc: 0.994708
+Mean Acc: 0.994672
+FreqW Acc: 0.989471
+Mean IoU: 0.989467
+
+Epoch 13, lr = 0.000100
+Epoch 13, Batch 30/63, Loss=0.000671
+Epoch 13, Batch 60/63, Loss=0.000593
+End of Epoch 13/50, Average Loss=0.000010
+validate on val set...
+
+Overall Acc: 0.994227
+Mean Acc: 0.994183
+FreqW Acc: 0.988519
+Mean IoU: 0.988515
+
+Epoch 14, lr = 0.000100
+Epoch 14, Batch 30/63, Loss=0.000609
+Epoch 14, Batch 60/63, Loss=0.000486
+End of Epoch 14/50, Average Loss=0.000009
+validate on val set...
+
+Overall Acc: 0.994227
+Mean Acc: 0.994183
+FreqW Acc: 0.988519
+Mean IoU: 0.988515
+
+Epoch 15, lr = 0.000100
+Epoch 15, Batch 30/63, Loss=0.000455
+Epoch 15, Batch 60/63, Loss=0.000479
+End of Epoch 15/50, Average Loss=0.000007
+validate on val set...
+
+Overall Acc: 0.993986
+Mean Acc: 0.993938
+FreqW Acc: 0.988043
+Mean IoU: 0.988039
+
+Epoch 16, lr = 0.000100
+Epoch 16, Batch 30/63, Loss=0.000397
+Epoch 16, Batch 60/63, Loss=0.000407
+End of Epoch 16/50, Average Loss=0.000006
+validate on val set...
+
+Overall Acc: 0.994227
+Mean Acc: 0.994183
+FreqW Acc: 0.988519
+Mean IoU: 0.988515
+
+Epoch 17, lr = 0.000100
+Epoch 17, Batch 30/63, Loss=0.000410
+Epoch 17, Batch 60/63, Loss=0.000333
+End of Epoch 17/50, Average Loss=0.000006
+validate on val set...
+
+Overall Acc: 0.994708
+Mean Acc: 0.994672
+FreqW Acc: 0.989471
+Mean IoU: 0.989467
+
+Epoch 18, lr = 0.000100
+Epoch 18, Batch 30/63, Loss=0.000301
+Epoch 18, Batch 60/63, Loss=0.000350
+End of Epoch 18/50, Average Loss=0.000005
+validate on val set...
+
+Overall Acc: 0.994948
+Mean Acc: 0.994917
+FreqW Acc: 0.989947
+Mean IoU: 0.989944
+
+Epoch 19, lr = 0.000100
+Epoch 19, Batch 30/63, Loss=0.000292
+Epoch 19, Batch 60/63, Loss=0.000260
+End of Epoch 19/50, Average Loss=0.000005
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 20, lr = 0.000100
+Epoch 20, Batch 30/63, Loss=0.000284
+Epoch 20, Batch 60/63, Loss=0.000225
+End of Epoch 20/50, Average Loss=0.000004
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 21, lr = 0.000100
+Epoch 21, Batch 30/63, Loss=0.000223
+Epoch 21, Batch 60/63, Loss=0.000247
+End of Epoch 21/50, Average Loss=0.000004
+validate on val set...
+
+Overall Acc: 0.994227
+Mean Acc: 0.994183
+FreqW Acc: 0.988519
+Mean IoU: 0.988515
+
+Epoch 22, lr = 0.000100
+Epoch 22, Batch 30/63, Loss=0.000219
+Epoch 22, Batch 60/63, Loss=0.000213
+End of Epoch 22/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994227
+Mean Acc: 0.994183
+FreqW Acc: 0.988519
+Mean IoU: 0.988515
+
+Epoch 23, lr = 0.000100
+Epoch 23, Batch 30/63, Loss=0.000211
+Epoch 23, Batch 60/63, Loss=0.000189
+End of Epoch 23/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 24, lr = 0.000010
+Epoch 24, Batch 30/63, Loss=0.000195
+Epoch 24, Batch 60/63, Loss=0.000179
+End of Epoch 24/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 25, lr = 0.000010
+Epoch 25, Batch 30/63, Loss=0.000191
+Epoch 25, Batch 60/63, Loss=0.000183
+End of Epoch 25/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 26, lr = 0.000010
+Epoch 26, Batch 30/63, Loss=0.000194
+Epoch 26, Batch 60/63, Loss=0.000174
+End of Epoch 26/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 27, lr = 0.000010
+Epoch 27, Batch 30/63, Loss=0.000171
+Epoch 27, Batch 60/63, Loss=0.000181
+End of Epoch 27/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 28, lr = 0.000010
+Epoch 28, Batch 30/63, Loss=0.000145
+Epoch 28, Batch 60/63, Loss=0.000203
+End of Epoch 28/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 29, lr = 0.000010
+Epoch 29, Batch 30/63, Loss=0.000195
+Epoch 29, Batch 60/63, Loss=0.000162
+End of Epoch 29/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 30, lr = 0.000010
+Epoch 30, Batch 30/63, Loss=0.000182
+Epoch 30, Batch 60/63, Loss=0.000171
+End of Epoch 30/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 31, lr = 0.000010
+Epoch 31, Batch 30/63, Loss=0.000193
+Epoch 31, Batch 60/63, Loss=0.000156
+End of Epoch 31/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 32, lr = 0.000010
+Epoch 32, Batch 30/63, Loss=0.000195
+Epoch 32, Batch 60/63, Loss=0.000157
+End of Epoch 32/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 33, lr = 0.000010
+Epoch 33, Batch 30/63, Loss=0.000149
+Epoch 33, Batch 60/63, Loss=0.000202
+End of Epoch 33/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 34, lr = 0.000010
+Epoch 34, Batch 30/63, Loss=0.000162
+Epoch 34, Batch 60/63, Loss=0.000182
+End of Epoch 34/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 35, lr = 0.000010
+Epoch 35, Batch 30/63, Loss=0.000179
+Epoch 35, Batch 60/63, Loss=0.000157
+End of Epoch 35/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 36, lr = 0.000010
+Epoch 36, Batch 30/63, Loss=0.000178
+Epoch 36, Batch 60/63, Loss=0.000162
+End of Epoch 36/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 37, lr = 0.000010
+Epoch 37, Batch 30/63, Loss=0.000146
+Epoch 37, Batch 60/63, Loss=0.000188
+End of Epoch 37/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 38, lr = 0.000010
+Epoch 38, Batch 30/63, Loss=0.000174
+Epoch 38, Batch 60/63, Loss=0.000162
+End of Epoch 38/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 39, lr = 0.000010
+Epoch 39, Batch 30/63, Loss=0.000154
+Epoch 39, Batch 60/63, Loss=0.000179
+End of Epoch 39/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 40, lr = 0.000010
+Epoch 40, Batch 30/63, Loss=0.000150
+Epoch 40, Batch 60/63, Loss=0.000180
+End of Epoch 40/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 41, lr = 0.000010
+Epoch 41, Batch 30/63, Loss=0.000144
+Epoch 41, Batch 60/63, Loss=0.000181
+End of Epoch 41/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 42, lr = 0.000010
+Epoch 42, Batch 30/63, Loss=0.000169
+Epoch 42, Batch 60/63, Loss=0.000158
+End of Epoch 42/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 43, lr = 0.000010
+Epoch 43, Batch 30/63, Loss=0.000168
+Epoch 43, Batch 60/63, Loss=0.000145
+End of Epoch 43/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994708
+Mean Acc: 0.994672
+FreqW Acc: 0.989471
+Mean IoU: 0.989467
+
+Epoch 44, lr = 0.000010
+Epoch 44, Batch 30/63, Loss=0.000162
+Epoch 44, Batch 60/63, Loss=0.000159
+End of Epoch 44/50, Average Loss=0.000002
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 45, lr = 0.000010
+Epoch 45, Batch 30/63, Loss=0.000157
+Epoch 45, Batch 60/63, Loss=0.000145
+End of Epoch 45/50, Average Loss=0.000003
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 46, lr = 0.000010
+Epoch 46, Batch 30/63, Loss=0.000144
+Epoch 46, Batch 60/63, Loss=0.000164
+End of Epoch 46/50, Average Loss=0.000002
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 47, lr = 0.000010
+Epoch 47, Batch 30/63, Loss=0.000126
+Epoch 47, Batch 60/63, Loss=0.000185
+End of Epoch 47/50, Average Loss=0.000002
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 48, lr = 0.000010
+Epoch 48, Batch 30/63, Loss=0.000163
+Epoch 48, Batch 60/63, Loss=0.000135
+End of Epoch 48/50, Average Loss=0.000002
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+Epoch 49, lr = 0.000001
+Epoch 49, Batch 30/63, Loss=0.000165
+Epoch 49, Batch 60/63, Loss=0.000134
+End of Epoch 49/50, Average Loss=0.000002
+validate on val set...
+
+Overall Acc: 0.994467
+Mean Acc: 0.994427
+FreqW Acc: 0.988995
+Mean IoU: 0.988991
+
+save_path: ../model\mnist\5phases\batch_identifiers\M_status03
+train_file_path_list: ['../datasets_folder\\mnist\\5phases\\accumulated/train_for_batch/mini_batch_train/mini_batch03']
+val_file_path_list: ['../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch01', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch02', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch03']
+model_load_path: ../model\mnist\5phases\amalgamation_models/M_status03
+Epoch 0, lr = 0.000100
+Epoch 0, Batch 30/47, Loss=0.540217
+End of Epoch 0/50, Average Loss=0.008639
+validate on val set...
+
+Overall Acc: 0.964351
+Mean Acc: 0.964144
+FreqW Acc: 0.931379
+Mean IoU: 0.930766
+
+Epoch 1, lr = 0.000100
+Epoch 1, Batch 30/47, Loss=0.117650
+End of Epoch 1/50, Average Loss=0.002213
+validate on val set...
+
+Overall Acc: 0.971149
+Mean Acc: 0.970563
+FreqW Acc: 0.944055
+Mean IoU: 0.943380
+
+Epoch 2, lr = 0.000100
+Epoch 2, Batch 30/47, Loss=0.081404
+End of Epoch 2/50, Average Loss=0.001525
+validate on val set...
+
+Overall Acc: 0.974134
+Mean Acc: 0.973390
+FreqW Acc: 0.949692
+Mean IoU: 0.949032
+
+Epoch 3, lr = 0.000100
+Epoch 3, Batch 30/47, Loss=0.055357
+End of Epoch 3/50, Average Loss=0.001112
+validate on val set...
+
+Overall Acc: 0.979108
+Mean Acc: 0.978802
+FreqW Acc: 0.959119
+Mean IoU: 0.958665
+
+Epoch 4, lr = 0.000100
+Epoch 4, Batch 30/47, Loss=0.034195
+End of Epoch 4/50, Average Loss=0.000823
+validate on val set...
+
+Overall Acc: 0.974797
+Mean Acc: 0.974844
+FreqW Acc: 0.950900
+Mean IoU: 0.950314
+
+Epoch 5, lr = 0.000100
+Epoch 5, Batch 30/47, Loss=0.029923
+End of Epoch 5/50, Average Loss=0.000654
+validate on val set...
+
+Overall Acc: 0.979771
+Mean Acc: 0.979689
+FreqW Acc: 0.960441
+Mean IoU: 0.960010
+
+Epoch 6, lr = 0.000100
+Epoch 6, Batch 30/47, Loss=0.021825
+End of Epoch 6/50, Average Loss=0.000454
+validate on val set...
+
+Overall Acc: 0.981595
+Mean Acc: 0.981283
+FreqW Acc: 0.963898
+Mean IoU: 0.963483
+
+Epoch 7, lr = 0.000100
+Epoch 7, Batch 30/47, Loss=0.014928
+End of Epoch 7/50, Average Loss=0.000323
+validate on val set...
+
+Overall Acc: 0.982424
+Mean Acc: 0.982267
+FreqW Acc: 0.965530
+Mean IoU: 0.965140
+
+Epoch 8, lr = 0.000100
+Epoch 8, Batch 30/47, Loss=0.010383
+End of Epoch 8/50, Average Loss=0.000233
+validate on val set...
+
+Overall Acc: 0.979108
+Mean Acc: 0.978372
+FreqW Acc: 0.959127
+Mean IoU: 0.958542
+
+Epoch 9, lr = 0.000100
+Epoch 9, Batch 30/47, Loss=0.007867
+End of Epoch 9/50, Average Loss=0.000188
+validate on val set...
+
+Overall Acc: 0.982590
+Mean Acc: 0.982520
+FreqW Acc: 0.965848
+Mean IoU: 0.965454
+
+Epoch 10, lr = 0.000100
+Epoch 10, Batch 30/47, Loss=0.006580
+End of Epoch 10/50, Average Loss=0.000136
+validate on val set...
+
+Overall Acc: 0.982258
+Mean Acc: 0.982104
+FreqW Acc: 0.965196
+Mean IoU: 0.964827
+
+Epoch 11, lr = 0.000100
+Epoch 11, Batch 30/47, Loss=0.004292
+End of Epoch 11/50, Average Loss=0.000099
+validate on val set...
+
+Overall Acc: 0.982258
+Mean Acc: 0.982069
+FreqW Acc: 0.965192
+Mean IoU: 0.964822
+
+Epoch 12, lr = 0.000100
+Epoch 12, Batch 30/47, Loss=0.003902
+End of Epoch 12/50, Average Loss=0.000082
+validate on val set...
+
+Overall Acc: 0.983585
+Mean Acc: 0.983407
+FreqW Acc: 0.967751
+Mean IoU: 0.967404
+
+Epoch 13, lr = 0.000100
+Epoch 13, Batch 30/47, Loss=0.003104
+End of Epoch 13/50, Average Loss=0.000068
+validate on val set...
+
+Overall Acc: 0.982590
+Mean Acc: 0.982294
+FreqW Acc: 0.965826
+Mean IoU: 0.965440
+
+Epoch 14, lr = 0.000100
+Epoch 14, Batch 30/47, Loss=0.002552
+End of Epoch 14/50, Average Loss=0.000055
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982927
+FreqW Acc: 0.966783
+Mean IoU: 0.966434
+
+Epoch 15, lr = 0.000100
+Epoch 15, Batch 30/47, Loss=0.002374
+End of Epoch 15/50, Average Loss=0.000048
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982857
+FreqW Acc: 0.966786
+Mean IoU: 0.966410
+
+Epoch 16, lr = 0.000100
+Epoch 16, Batch 30/47, Loss=0.001928
+End of Epoch 16/50, Average Loss=0.000040
+validate on val set...
+
+Overall Acc: 0.983253
+Mean Acc: 0.983122
+FreqW Acc: 0.967110
+Mean IoU: 0.966728
+
+Epoch 17, lr = 0.000100
+Epoch 17, Batch 30/47, Loss=0.001702
+End of Epoch 17/50, Average Loss=0.000035
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982976
+FreqW Acc: 0.966786
+Mean IoU: 0.966439
+
+Epoch 18, lr = 0.000100
+Epoch 18, Batch 30/47, Loss=0.001344
+End of Epoch 18/50, Average Loss=0.000031
+validate on val set...
+
+Overall Acc: 0.982756
+Mean Acc: 0.982542
+FreqW Acc: 0.966152
+Mean IoU: 0.965792
+
+Epoch 19, lr = 0.000100
+Epoch 19, Batch 30/47, Loss=0.001333
+End of Epoch 19/50, Average Loss=0.000028
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982877
+FreqW Acc: 0.966790
+Mean IoU: 0.966428
+
+Epoch 20, lr = 0.000100
+Epoch 20, Batch 30/47, Loss=0.001146
+End of Epoch 20/50, Average Loss=0.000024
+validate on val set...
+
+Overall Acc: 0.983419
+Mean Acc: 0.983297
+FreqW Acc: 0.967425
+Mean IoU: 0.967076
+
+Epoch 21, lr = 0.000100
+Epoch 21, Batch 30/47, Loss=0.001137
+End of Epoch 21/50, Average Loss=0.000022
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982740
+FreqW Acc: 0.966468
+Mean IoU: 0.966109
+
+Epoch 22, lr = 0.000100
+Epoch 22, Batch 30/47, Loss=0.000897
+End of Epoch 22/50, Average Loss=0.000019
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982970
+FreqW Acc: 0.966788
+Mean IoU: 0.966422
+
+Epoch 23, lr = 0.000100
+Epoch 23, Batch 30/47, Loss=0.000832
+End of Epoch 23/50, Average Loss=0.000018
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 24, lr = 0.000010
+Epoch 24, Batch 30/47, Loss=0.000716
+End of Epoch 24/50, Average Loss=0.000016
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 25, lr = 0.000010
+Epoch 25, Batch 30/47, Loss=0.000789
+End of Epoch 25/50, Average Loss=0.000016
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 26, lr = 0.000010
+Epoch 26, Batch 30/47, Loss=0.000762
+End of Epoch 26/50, Average Loss=0.000016
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 27, lr = 0.000010
+Epoch 27, Batch 30/47, Loss=0.000693
+End of Epoch 27/50, Average Loss=0.000016
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 28, lr = 0.000010
+Epoch 28, Batch 30/47, Loss=0.000681
+End of Epoch 28/50, Average Loss=0.000016
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 29, lr = 0.000010
+Epoch 29, Batch 30/47, Loss=0.000732
+End of Epoch 29/50, Average Loss=0.000015
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 30, lr = 0.000010
+Epoch 30, Batch 30/47, Loss=0.000702
+End of Epoch 30/50, Average Loss=0.000015
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 31, lr = 0.000010
+Epoch 31, Batch 30/47, Loss=0.000757
+End of Epoch 31/50, Average Loss=0.000015
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 32, lr = 0.000010
+Epoch 32, Batch 30/47, Loss=0.000711
+End of Epoch 32/50, Average Loss=0.000015
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 33, lr = 0.000010
+Epoch 33, Batch 30/47, Loss=0.000694
+End of Epoch 33/50, Average Loss=0.000015
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 34, lr = 0.000010
+Epoch 34, Batch 30/47, Loss=0.000643
+End of Epoch 34/50, Average Loss=0.000015
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 35, lr = 0.000010
+Epoch 35, Batch 30/47, Loss=0.000592
+End of Epoch 35/50, Average Loss=0.000015
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 36, lr = 0.000010
+Epoch 36, Batch 30/47, Loss=0.000618
+End of Epoch 36/50, Average Loss=0.000014
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 37, lr = 0.000010
+Epoch 37, Batch 30/47, Loss=0.000630
+End of Epoch 37/50, Average Loss=0.000014
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 38, lr = 0.000010
+Epoch 38, Batch 30/47, Loss=0.000607
+End of Epoch 38/50, Average Loss=0.000014
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 39, lr = 0.000010
+Epoch 39, Batch 30/47, Loss=0.000634
+End of Epoch 39/50, Average Loss=0.000014
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 40, lr = 0.000010
+Epoch 40, Batch 30/47, Loss=0.000623
+End of Epoch 40/50, Average Loss=0.000014
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 41, lr = 0.000010
+Epoch 41, Batch 30/47, Loss=0.000652
+End of Epoch 41/50, Average Loss=0.000014
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 42, lr = 0.000010
+Epoch 42, Batch 30/47, Loss=0.000652
+End of Epoch 42/50, Average Loss=0.000013
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 43, lr = 0.000010
+Epoch 43, Batch 30/47, Loss=0.000648
+End of Epoch 43/50, Average Loss=0.000013
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 44, lr = 0.000010
+Epoch 44, Batch 30/47, Loss=0.000603
+End of Epoch 44/50, Average Loss=0.000013
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 45, lr = 0.000010
+Epoch 45, Batch 30/47, Loss=0.000639
+End of Epoch 45/50, Average Loss=0.000013
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 46, lr = 0.000010
+Epoch 46, Batch 30/47, Loss=0.000607
+End of Epoch 46/50, Average Loss=0.000013
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 47, lr = 0.000010
+Epoch 47, Batch 30/47, Loss=0.000620
+End of Epoch 47/50, Average Loss=0.000013
+validate on val set...
+
+Overall Acc: 0.983087
+Mean Acc: 0.982897
+FreqW Acc: 0.966788
+Mean IoU: 0.966433
+
+Epoch 48, lr = 0.000010
+Epoch 48, Batch 30/47, Loss=0.000553
+End of Epoch 48/50, Average Loss=0.000013
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+Epoch 49, lr = 0.000001
+Epoch 49, Batch 30/47, Loss=0.000566
+End of Epoch 49/50, Average Loss=0.000012
+validate on val set...
+
+Overall Acc: 0.982922
+Mean Acc: 0.982719
+FreqW Acc: 0.966469
+Mean IoU: 0.966105
+
+save_path: ../model\mnist\5phases\batch_identifiers\M_status04
+train_file_path_list: ['../datasets_folder\\mnist\\5phases\\accumulated/train_for_batch/mini_batch_train/mini_batch04']
+val_file_path_list: ['../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch01', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch02', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch03', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch04']
+model_load_path: ../model\mnist\5phases\amalgamation_models/M_status04
+Epoch 0, lr = 0.000100
+Epoch 0, Batch 30/42, Loss=0.920511
+End of Epoch 0/50, Average Loss=0.018167
+validate on val set...
+
+Overall Acc: 0.927155
+Mean Acc: 0.925961
+FreqW Acc: 0.864373
+Mean IoU: 0.863368
+
+Epoch 1, lr = 0.000100
+Epoch 1, Batch 30/42, Loss=0.247973
+End of Epoch 1/50, Average Loss=0.005477
+validate on val set...
+
+Overall Acc: 0.948859
+Mean Acc: 0.948878
+FreqW Acc: 0.903043
+Mean IoU: 0.902347
+
+Epoch 2, lr = 0.000100
+Epoch 2, Batch 30/42, Loss=0.161496
+End of Epoch 2/50, Average Loss=0.003605
+validate on val set...
+
+Overall Acc: 0.957964
+Mean Acc: 0.957597
+FreqW Acc: 0.919529
+Mean IoU: 0.918972
+
+Epoch 3, lr = 0.000100
+Epoch 3, Batch 30/42, Loss=0.116318
+End of Epoch 3/50, Average Loss=0.002848
+validate on val set...
+
+Overall Acc: 0.959087
+Mean Acc: 0.958159
+FreqW Acc: 0.921540
+Mean IoU: 0.920962
+
+Epoch 4, lr = 0.000100
+Epoch 4, Batch 30/42, Loss=0.086031
+End of Epoch 4/50, Average Loss=0.002329
+validate on val set...
+
+Overall Acc: 0.960833
+Mean Acc: 0.960425
+FreqW Acc: 0.924575
+Mean IoU: 0.924402
+
+Epoch 5, lr = 0.000100
+Epoch 5, Batch 30/42, Loss=0.066656
+End of Epoch 5/50, Average Loss=0.001858
+validate on val set...
+
+Overall Acc: 0.964575
+Mean Acc: 0.964069
+FreqW Acc: 0.931638
+Mean IoU: 0.931305
+
+Epoch 6, lr = 0.000100
+Epoch 6, Batch 30/42, Loss=0.069145
+End of Epoch 6/50, Average Loss=0.001584
+validate on val set...
+
+Overall Acc: 0.966696
+Mean Acc: 0.966205
+FreqW Acc: 0.935685
+Mean IoU: 0.935225
+
+Epoch 7, lr = 0.000100
+Epoch 7, Batch 30/42, Loss=0.056755
+End of Epoch 7/50, Average Loss=0.001297
+validate on val set...
+
+Overall Acc: 0.967818
+Mean Acc: 0.967416
+FreqW Acc: 0.937769
+Mean IoU: 0.937376
+
+Epoch 8, lr = 0.000100
+Epoch 8, Batch 30/42, Loss=0.043710
+End of Epoch 8/50, Average Loss=0.001016
+validate on val set...
+
+Overall Acc: 0.966571
+Mean Acc: 0.966061
+FreqW Acc: 0.935373
+Mean IoU: 0.935083
+
+Epoch 9, lr = 0.000100
+Epoch 9, Batch 30/42, Loss=0.037945
+End of Epoch 9/50, Average Loss=0.000842
+validate on val set...
+
+Overall Acc: 0.965698
+Mean Acc: 0.965353
+FreqW Acc: 0.933857
+Mean IoU: 0.933393
+
+Epoch 10, lr = 0.000100
+Epoch 10, Batch 30/42, Loss=0.028584
+End of Epoch 10/50, Average Loss=0.000687
+validate on val set...
+
+Overall Acc: 0.968442
+Mean Acc: 0.967954
+FreqW Acc: 0.938870
+Mean IoU: 0.938568
+
+Epoch 11, lr = 0.000100
+Epoch 11, Batch 30/42, Loss=0.023817
+End of Epoch 11/50, Average Loss=0.000539
+validate on val set...
+
+Overall Acc: 0.969440
+Mean Acc: 0.969108
+FreqW Acc: 0.940777
+Mean IoU: 0.940463
+
+Epoch 12, lr = 0.000100
+Epoch 12, Batch 30/42, Loss=0.017025
+End of Epoch 12/50, Average Loss=0.000433
+validate on val set...
+
+Overall Acc: 0.968567
+Mean Acc: 0.968239
+FreqW Acc: 0.939117
+Mean IoU: 0.938783
+
+Epoch 13, lr = 0.000100
+Epoch 13, Batch 30/42, Loss=0.015347
+End of Epoch 13/50, Average Loss=0.000343
+validate on val set...
+
+Overall Acc: 0.968068
+Mean Acc: 0.967653
+FreqW Acc: 0.938120
+Mean IoU: 0.937933
+
+Epoch 14, lr = 0.000100
+Epoch 14, Batch 30/42, Loss=0.012332
+End of Epoch 14/50, Average Loss=0.000279
+validate on val set...
+
+Overall Acc: 0.968941
+Mean Acc: 0.968701
+FreqW Acc: 0.939850
+Mean IoU: 0.939560
+
+Epoch 15, lr = 0.000100
+Epoch 15, Batch 30/42, Loss=0.009301
+End of Epoch 15/50, Average Loss=0.000229
+validate on val set...
+
+Overall Acc: 0.969814
+Mean Acc: 0.969466
+FreqW Acc: 0.941483
+Mean IoU: 0.941147
+
+Epoch 16, lr = 0.000100
+Epoch 16, Batch 30/42, Loss=0.008231
+End of Epoch 16/50, Average Loss=0.000185
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969576
+FreqW Acc: 0.941711
+Mean IoU: 0.941359
+
+Epoch 17, lr = 0.000100
+Epoch 17, Batch 30/42, Loss=0.006860
+End of Epoch 17/50, Average Loss=0.000156
+validate on val set...
+
+Overall Acc: 0.969565
+Mean Acc: 0.969170
+FreqW Acc: 0.940996
+Mean IoU: 0.940692
+
+Epoch 18, lr = 0.000100
+Epoch 18, Batch 30/42, Loss=0.005813
+End of Epoch 18/50, Average Loss=0.000141
+validate on val set...
+
+Overall Acc: 0.970188
+Mean Acc: 0.969847
+FreqW Acc: 0.942180
+Mean IoU: 0.941894
+
+Epoch 19, lr = 0.000100
+Epoch 19, Batch 30/42, Loss=0.004559
+End of Epoch 19/50, Average Loss=0.000121
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969421
+FreqW Acc: 0.941702
+Mean IoU: 0.941340
+
+Epoch 20, lr = 0.000100
+Epoch 20, Batch 30/42, Loss=0.004797
+End of Epoch 20/50, Average Loss=0.000114
+validate on val set...
+
+Overall Acc: 0.970188
+Mean Acc: 0.969721
+FreqW Acc: 0.942189
+Mean IoU: 0.941815
+
+Epoch 21, lr = 0.000100
+Epoch 21, Batch 30/42, Loss=0.003427
+End of Epoch 21/50, Average Loss=0.000089
+validate on val set...
+
+Overall Acc: 0.968941
+Mean Acc: 0.968517
+FreqW Acc: 0.939856
+Mean IoU: 0.939489
+
+Epoch 22, lr = 0.000100
+Epoch 22, Batch 30/42, Loss=0.003079
+End of Epoch 22/50, Average Loss=0.000081
+validate on val set...
+
+Overall Acc: 0.970313
+Mean Acc: 0.969864
+FreqW Acc: 0.942398
+Mean IoU: 0.942033
+
+Epoch 23, lr = 0.000100
+Epoch 23, Batch 30/42, Loss=0.002890
+End of Epoch 23/50, Average Loss=0.000073
+validate on val set...
+
+Overall Acc: 0.969565
+Mean Acc: 0.969125
+FreqW Acc: 0.941028
+Mean IoU: 0.940678
+
+Epoch 24, lr = 0.000010
+Epoch 24, Batch 30/42, Loss=0.002683
+End of Epoch 24/50, Average Loss=0.000063
+validate on val set...
+
+Overall Acc: 0.970188
+Mean Acc: 0.969799
+FreqW Acc: 0.942189
+Mean IoU: 0.941860
+
+Epoch 25, lr = 0.000010
+Epoch 25, Batch 30/42, Loss=0.002584
+End of Epoch 25/50, Average Loss=0.000062
+validate on val set...
+
+Overall Acc: 0.970064
+Mean Acc: 0.969676
+FreqW Acc: 0.941948
+Mean IoU: 0.941618
+
+Epoch 26, lr = 0.000010
+Epoch 26, Batch 30/42, Loss=0.002458
+End of Epoch 26/50, Average Loss=0.000061
+validate on val set...
+
+Overall Acc: 0.970064
+Mean Acc: 0.969676
+FreqW Acc: 0.941948
+Mean IoU: 0.941618
+
+Epoch 27, lr = 0.000010
+Epoch 27, Batch 30/42, Loss=0.002685
+End of Epoch 27/50, Average Loss=0.000060
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969543
+FreqW Acc: 0.941714
+Mean IoU: 0.941375
+
+Epoch 28, lr = 0.000010
+Epoch 28, Batch 30/42, Loss=0.002381
+End of Epoch 28/50, Average Loss=0.000060
+validate on val set...
+
+Overall Acc: 0.970064
+Mean Acc: 0.969676
+FreqW Acc: 0.941948
+Mean IoU: 0.941618
+
+Epoch 29, lr = 0.000010
+Epoch 29, Batch 30/42, Loss=0.002566
+End of Epoch 29/50, Average Loss=0.000059
+validate on val set...
+
+Overall Acc: 0.970064
+Mean Acc: 0.969676
+FreqW Acc: 0.941948
+Mean IoU: 0.941618
+
+Epoch 30, lr = 0.000010
+Epoch 30, Batch 30/42, Loss=0.002558
+End of Epoch 30/50, Average Loss=0.000058
+validate on val set...
+
+Overall Acc: 0.970064
+Mean Acc: 0.969676
+FreqW Acc: 0.941948
+Mean IoU: 0.941618
+
+Epoch 31, lr = 0.000010
+Epoch 31, Batch 30/42, Loss=0.002384
+End of Epoch 31/50, Average Loss=0.000058
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969543
+FreqW Acc: 0.941714
+Mean IoU: 0.941375
+
+Epoch 32, lr = 0.000010
+Epoch 32, Batch 30/42, Loss=0.002232
+End of Epoch 32/50, Average Loss=0.000057
+validate on val set...
+
+Overall Acc: 0.970064
+Mean Acc: 0.969676
+FreqW Acc: 0.941948
+Mean IoU: 0.941618
+
+Epoch 33, lr = 0.000010
+Epoch 33, Batch 30/42, Loss=0.002305
+End of Epoch 33/50, Average Loss=0.000056
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969543
+FreqW Acc: 0.941714
+Mean IoU: 0.941375
+
+Epoch 34, lr = 0.000010
+Epoch 34, Batch 30/42, Loss=0.002421
+End of Epoch 34/50, Average Loss=0.000056
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969543
+FreqW Acc: 0.941714
+Mean IoU: 0.941375
+
+Epoch 35, lr = 0.000010
+Epoch 35, Batch 30/42, Loss=0.002353
+End of Epoch 35/50, Average Loss=0.000055
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969543
+FreqW Acc: 0.941714
+Mean IoU: 0.941375
+
+Epoch 36, lr = 0.000010
+Epoch 36, Batch 30/42, Loss=0.002090
+End of Epoch 36/50, Average Loss=0.000055
+validate on val set...
+
+Overall Acc: 0.970064
+Mean Acc: 0.969676
+FreqW Acc: 0.941948
+Mean IoU: 0.941618
+
+Epoch 37, lr = 0.000010
+Epoch 37, Batch 30/42, Loss=0.002211
+End of Epoch 37/50, Average Loss=0.000054
+validate on val set...
+
+Overall Acc: 0.969814
+Mean Acc: 0.969425
+FreqW Acc: 0.941481
+Mean IoU: 0.941146
+
+Epoch 38, lr = 0.000010
+Epoch 38, Batch 30/42, Loss=0.002210
+End of Epoch 38/50, Average Loss=0.000053
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 39, lr = 0.000010
+Epoch 39, Batch 30/42, Loss=0.002127
+End of Epoch 39/50, Average Loss=0.000053
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 40, lr = 0.000010
+Epoch 40, Batch 30/42, Loss=0.002245
+End of Epoch 40/50, Average Loss=0.000052
+validate on val set...
+
+Overall Acc: 0.969814
+Mean Acc: 0.969425
+FreqW Acc: 0.941481
+Mean IoU: 0.941146
+
+Epoch 41, lr = 0.000010
+Epoch 41, Batch 30/42, Loss=0.002370
+End of Epoch 41/50, Average Loss=0.000052
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 42, lr = 0.000010
+Epoch 42, Batch 30/42, Loss=0.002148
+End of Epoch 42/50, Average Loss=0.000051
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 43, lr = 0.000010
+Epoch 43, Batch 30/42, Loss=0.002145
+End of Epoch 43/50, Average Loss=0.000050
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 44, lr = 0.000010
+Epoch 44, Batch 30/42, Loss=0.002133
+End of Epoch 44/50, Average Loss=0.000049
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 45, lr = 0.000010
+Epoch 45, Batch 30/42, Loss=0.002178
+End of Epoch 45/50, Average Loss=0.000049
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 46, lr = 0.000010
+Epoch 46, Batch 30/42, Loss=0.002109
+End of Epoch 46/50, Average Loss=0.000048
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 47, lr = 0.000010
+Epoch 47, Batch 30/42, Loss=0.001918
+End of Epoch 47/50, Average Loss=0.000047
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 48, lr = 0.000010
+Epoch 48, Batch 30/42, Loss=0.001986
+End of Epoch 48/50, Average Loss=0.000047
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+Epoch 49, lr = 0.000001
+Epoch 49, Batch 30/42, Loss=0.001974
+End of Epoch 49/50, Average Loss=0.000046
+validate on val set...
+
+Overall Acc: 0.969939
+Mean Acc: 0.969558
+FreqW Acc: 0.941714
+Mean IoU: 0.941389
+
+save_path: ../model\mnist\5phases\batch_identifiers\M_status05
+train_file_path_list: ['../datasets_folder\\mnist\\5phases\\accumulated/train_for_batch/mini_batch_train/mini_batch05']
+val_file_path_list: ['../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch01', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch02', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch03', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch04', '../datasets_folder\\mnist\\5phases\\separated/test/batch_test\\batch05']
+model_load_path: ../model\mnist\5phases\amalgamation_models/M_status05
+Epoch 0, lr = 0.000100
+Epoch 0, Batch 30/40, Loss=1.122232
+End of Epoch 0/50, Average Loss=0.024677
+validate on val set...
+
+Overall Acc: 0.876800
+Mean Acc: 0.875383
+FreqW Acc: 0.781897
+Mean IoU: 0.780010
+
+Epoch 1, lr = 0.000100
+Epoch 1, Batch 30/40, Loss=0.393029
+End of Epoch 1/50, Average Loss=0.009573
+validate on val set...
+
+Overall Acc: 0.907100
+Mean Acc: 0.905756
+FreqW Acc: 0.832123
+Mean IoU: 0.830687
+
+Epoch 2, lr = 0.000100
+Epoch 2, Batch 30/40, Loss=0.271908
+End of Epoch 2/50, Average Loss=0.006341
+validate on val set...
+
+Overall Acc: 0.926100
+Mean Acc: 0.924727
+FreqW Acc: 0.863003
+Mean IoU: 0.861764
+
+Epoch 3, lr = 0.000100
+Epoch 3, Batch 30/40, Loss=0.199007
+End of Epoch 3/50, Average Loss=0.005049
+validate on val set...
+
+Overall Acc: 0.927900
+Mean Acc: 0.926492
+FreqW Acc: 0.866768
+Mean IoU: 0.865378
+
+Epoch 4, lr = 0.000100
+Epoch 4, Batch 30/40, Loss=0.158804
+End of Epoch 4/50, Average Loss=0.004120
+validate on val set...
+
+Overall Acc: 0.938700
+Mean Acc: 0.938055
+FreqW Acc: 0.885123
+Mean IoU: 0.884083
+
+Epoch 5, lr = 0.000100
+Epoch 5, Batch 30/40, Loss=0.144810
+End of Epoch 5/50, Average Loss=0.003491
+validate on val set...
+
+Overall Acc: 0.943400
+Mean Acc: 0.942250
+FreqW Acc: 0.893199
+Mean IoU: 0.892148
+
+Epoch 6, lr = 0.000100
+Epoch 6, Batch 30/40, Loss=0.121291
+End of Epoch 6/50, Average Loss=0.002871
+validate on val set...
+
+Overall Acc: 0.945900
+Mean Acc: 0.945361
+FreqW Acc: 0.897677
+Mean IoU: 0.896780
+
+Epoch 7, lr = 0.000100
+Epoch 7, Batch 30/40, Loss=0.097111
+End of Epoch 7/50, Average Loss=0.002311
+validate on val set...
+
+Overall Acc: 0.947500
+Mean Acc: 0.946969
+FreqW Acc: 0.900456
+Mean IoU: 0.899506
+
+Epoch 8, lr = 0.000100
+Epoch 8, Batch 30/40, Loss=0.081263
+End of Epoch 8/50, Average Loss=0.002235
+validate on val set...
+
+Overall Acc: 0.949500
+Mean Acc: 0.948665
+FreqW Acc: 0.904156
+Mean IoU: 0.903306
+
+Epoch 9, lr = 0.000100
+Epoch 9, Batch 30/40, Loss=0.084749
+End of Epoch 9/50, Average Loss=0.002054
+validate on val set...
+
+Overall Acc: 0.952400
+Mean Acc: 0.951981
+FreqW Acc: 0.909412
+Mean IoU: 0.908666
+
+Epoch 10, lr = 0.000100
+Epoch 10, Batch 30/40, Loss=0.057747
+End of Epoch 10/50, Average Loss=0.001398
+validate on val set...
+
+Overall Acc: 0.953500
+Mean Acc: 0.953149
+FreqW Acc: 0.911348
+Mean IoU: 0.910658
+
+Epoch 11, lr = 0.000100
+Epoch 11, Batch 30/40, Loss=0.047618
+End of Epoch 11/50, Average Loss=0.001208
+validate on val set...
+
+Overall Acc: 0.951600
+Mean Acc: 0.951159
+FreqW Acc: 0.907882
+Mean IoU: 0.907128
+
+Epoch 12, lr = 0.000100
+Epoch 12, Batch 30/40, Loss=0.038250
+End of Epoch 12/50, Average Loss=0.000989
+validate on val set...
+
+Overall Acc: 0.951700
+Mean Acc: 0.951034
+FreqW Acc: 0.907986
+Mean IoU: 0.907273
+
+Epoch 13, lr = 0.000100
+Epoch 13, Batch 30/40, Loss=0.033050
+End of Epoch 13/50, Average Loss=0.000815
+validate on val set...
+
+Overall Acc: 0.953900
+Mean Acc: 0.953215
+FreqW Acc: 0.912137
+Mean IoU: 0.911430
+
+Epoch 14, lr = 0.000100
+Epoch 14, Batch 30/40, Loss=0.027528
+End of Epoch 14/50, Average Loss=0.000693
+validate on val set...
+
+Overall Acc: 0.955700
+Mean Acc: 0.955195
+FreqW Acc: 0.915355
+Mean IoU: 0.914693
+
+Epoch 15, lr = 0.000100
+Epoch 15, Batch 30/40, Loss=0.022542
+End of Epoch 15/50, Average Loss=0.000578
+validate on val set...
+
+Overall Acc: 0.954200
+Mean Acc: 0.953604
+FreqW Acc: 0.912663
+Mean IoU: 0.911961
+
+Epoch 16, lr = 0.000100
+Epoch 16, Batch 30/40, Loss=0.020709
+End of Epoch 16/50, Average Loss=0.000507
+validate on val set...
+
+Overall Acc: 0.954800
+Mean Acc: 0.954133
+FreqW Acc: 0.913633
+Mean IoU: 0.913000
+
+Epoch 17, lr = 0.000100
+Epoch 17, Batch 30/40, Loss=0.017146
+End of Epoch 17/50, Average Loss=0.000423
+validate on val set...
+
+Overall Acc: 0.954700
+Mean Acc: 0.954050
+FreqW Acc: 0.913475
+Mean IoU: 0.912780
+
+Epoch 18, lr = 0.000100
+Epoch 18, Batch 30/40, Loss=0.014761
+End of Epoch 18/50, Average Loss=0.000361
+validate on val set...
+
+Overall Acc: 0.954400
+Mean Acc: 0.954055
+FreqW Acc: 0.913027
+Mean IoU: 0.912235
+
+Epoch 19, lr = 0.000100
+Epoch 19, Batch 30/40, Loss=0.012933
+End of Epoch 19/50, Average Loss=0.000324
+validate on val set...
+
+Overall Acc: 0.955700
+Mean Acc: 0.955153
+FreqW Acc: 0.915340
+Mean IoU: 0.914674
+
+Epoch 20, lr = 0.000100
+Epoch 20, Batch 30/40, Loss=0.010780
+End of Epoch 20/50, Average Loss=0.000272
+validate on val set...
+
+Overall Acc: 0.956300
+Mean Acc: 0.955773
+FreqW Acc: 0.916456
+Mean IoU: 0.915788
+
+Epoch 21, lr = 0.000100
+Epoch 21, Batch 30/40, Loss=0.010008
+End of Epoch 21/50, Average Loss=0.000235
+validate on val set...
+
+Overall Acc: 0.955300
+Mean Acc: 0.954766
+FreqW Acc: 0.914576
+Mean IoU: 0.913906
+
+Epoch 22, lr = 0.000100
+Epoch 22, Batch 30/40, Loss=0.008786
+End of Epoch 22/50, Average Loss=0.000209
+validate on val set...
+
+Overall Acc: 0.955200
+Mean Acc: 0.954820
+FreqW Acc: 0.914402
+Mean IoU: 0.913778
+
+Epoch 23, lr = 0.000100
+Epoch 23, Batch 30/40, Loss=0.007678
+End of Epoch 23/50, Average Loss=0.000192
+validate on val set...
+
+Overall Acc: 0.955900
+Mean Acc: 0.955354
+FreqW Acc: 0.915697
+Mean IoU: 0.915043
+
+Epoch 24, lr = 0.000010
+Epoch 24, Batch 30/40, Loss=0.007069
+End of Epoch 24/50, Average Loss=0.000174
+validate on val set...
+
+Overall Acc: 0.955600
+Mean Acc: 0.955084
+FreqW Acc: 0.915144
+Mean IoU: 0.914466
+
+Epoch 25, lr = 0.000010
+Epoch 25, Batch 30/40, Loss=0.006699
+End of Epoch 25/50, Average Loss=0.000165
+validate on val set...
+
+Overall Acc: 0.955700
+Mean Acc: 0.955178
+FreqW Acc: 0.915317
+Mean IoU: 0.914645
+
+Epoch 26, lr = 0.000010
+Epoch 26, Batch 30/40, Loss=0.006384
+End of Epoch 26/50, Average Loss=0.000159
+validate on val set...
+
+Overall Acc: 0.955600
+Mean Acc: 0.955086
+FreqW Acc: 0.915136
+Mean IoU: 0.914461
+
+Epoch 27, lr = 0.000010
+Epoch 27, Batch 30/40, Loss=0.006664
+End of Epoch 27/50, Average Loss=0.000158
+validate on val set...
+
+Overall Acc: 0.955600
+Mean Acc: 0.955092
+FreqW Acc: 0.915125
+Mean IoU: 0.914462
+
+Epoch 28, lr = 0.000010
+Epoch 28, Batch 30/40, Loss=0.006315
+End of Epoch 28/50, Average Loss=0.000163
+validate on val set...
+
+Overall Acc: 0.955700
+Mean Acc: 0.955181
+FreqW Acc: 0.915307
+Mean IoU: 0.914652
+
+Epoch 29, lr = 0.000010
+Epoch 29, Batch 30/40, Loss=0.006128
+End of Epoch 29/50, Average Loss=0.000156
+validate on val set...
+
+Overall Acc: 0.955500
+Mean Acc: 0.954988
+FreqW Acc: 0.914954
+Mean IoU: 0.914283
+
+Epoch 30, lr = 0.000010
+Epoch 30, Batch 30/40, Loss=0.006227
+End of Epoch 30/50, Average Loss=0.000156
+validate on val set...
+
+Overall Acc: 0.955800
+Mean Acc: 0.955285
+FreqW Acc: 0.915501
+Mean IoU: 0.914833
+
+Epoch 31, lr = 0.000010
+Epoch 31, Batch 30/40, Loss=0.005977
+End of Epoch 31/50, Average Loss=0.000153
+validate on val set...
+
+Overall Acc: 0.955600
+Mean Acc: 0.955095
+FreqW Acc: 0.915135
+Mean IoU: 0.914479
+
+Epoch 32, lr = 0.000010
+Epoch 32, Batch 30/40, Loss=0.006319
+End of Epoch 32/50, Average Loss=0.000152
+validate on val set...
+
+Overall Acc: 0.955500
+Mean Acc: 0.954979
+FreqW Acc: 0.914941
+Mean IoU: 0.914280
+
+Epoch 33, lr = 0.000010
+Epoch 33, Batch 30/40, Loss=0.006328
+End of Epoch 33/50, Average Loss=0.000159
+validate on val set...
+
+Overall Acc: 0.955600
+Mean Acc: 0.955083
+FreqW Acc: 0.915128
+Mean IoU: 0.914461
+
+Epoch 34, lr = 0.000010
+Epoch 34, Batch 30/40, Loss=0.006155
+End of Epoch 34/50, Average Loss=0.000148
+validate on val set...
+
+Overall Acc: 0.955400
+Mean Acc: 0.954902
+FreqW Acc: 0.914760
+Mean IoU: 0.914093
+
+Epoch 35, lr = 0.000010
+Epoch 35, Batch 30/40, Loss=0.005850
+End of Epoch 35/50, Average Loss=0.000148
+validate on val set...
+
+Overall Acc: 0.955400
+Mean Acc: 0.954891
+FreqW Acc: 0.914766
+Mean IoU: 0.914114
+
+Epoch 36, lr = 0.000010
+Epoch 36, Batch 30/40, Loss=0.005761
+End of Epoch 36/50, Average Loss=0.000142
+validate on val set...
+
+Overall Acc: 0.955300
+Mean Acc: 0.954801
+FreqW Acc: 0.914563
+Mean IoU: 0.913916
+
+Epoch 37, lr = 0.000010
+Epoch 37, Batch 30/40, Loss=0.005696
+End of Epoch 37/50, Average Loss=0.000142
+validate on val set...
+
+Overall Acc: 0.955200
+Mean Acc: 0.954689
+FreqW Acc: 0.914393
+Mean IoU: 0.913735
+
+Epoch 38, lr = 0.000010
+Epoch 38, Batch 30/40, Loss=0.005564
+End of Epoch 38/50, Average Loss=0.000140
+validate on val set...
+
+Overall Acc: 0.955500
+Mean Acc: 0.955012
+FreqW Acc: 0.914938
+Mean IoU: 0.914302
+
+Epoch 39, lr = 0.000010
+Epoch 39, Batch 30/40, Loss=0.005755
+End of Epoch 39/50, Average Loss=0.000144
+validate on val set...
+
+Overall Acc: 0.955400
+Mean Acc: 0.954870
+FreqW Acc: 0.914740
+Mean IoU: 0.914100
+
+Epoch 40, lr = 0.000010
+Epoch 40, Batch 30/40, Loss=0.005834
+End of Epoch 40/50, Average Loss=0.000139
+validate on val set...
+
+Overall Acc: 0.955300
+Mean Acc: 0.954772
+FreqW Acc: 0.914561
+Mean IoU: 0.913925
+
+Epoch 41, lr = 0.000010
+Epoch 41, Batch 30/40, Loss=0.005496
+End of Epoch 41/50, Average Loss=0.000134
+validate on val set...
+
+Overall Acc: 0.955800
+Mean Acc: 0.955294
+FreqW Acc: 0.915483
+Mean IoU: 0.914839
+
+Epoch 42, lr = 0.000010
+Epoch 42, Batch 30/40, Loss=0.005387
+End of Epoch 42/50, Average Loss=0.000145
+validate on val set...
+
+Overall Acc: 0.955500
+Mean Acc: 0.954997
+FreqW Acc: 0.914923
+Mean IoU: 0.914286
+
+Epoch 43, lr = 0.000010
+Epoch 43, Batch 30/40, Loss=0.005365
+End of Epoch 43/50, Average Loss=0.000138
+validate on val set...
+
+Overall Acc: 0.955800
+Mean Acc: 0.955297
+FreqW Acc: 0.915465
+Mean IoU: 0.914840
+
+Epoch 44, lr = 0.000010
+Epoch 44, Batch 30/40, Loss=0.005477
+End of Epoch 44/50, Average Loss=0.000131
+validate on val set...
+
+Overall Acc: 0.955600
+Mean Acc: 0.955125
+FreqW Acc: 0.915122
+Mean IoU: 0.914490
+
+Epoch 45, lr = 0.000010
+Epoch 45, Batch 30/40, Loss=0.004958
+End of Epoch 45/50, Average Loss=0.000133
+validate on val set...
+
+Overall Acc: 0.955700
+Mean Acc: 0.955211
+FreqW Acc: 0.915302
+Mean IoU: 0.914673
+
+Epoch 46, lr = 0.000010
+Epoch 46, Batch 30/40, Loss=0.005099
+End of Epoch 46/50, Average Loss=0.000127
+validate on val set...
+
+Overall Acc: 0.955900
+Mean Acc: 0.955406
+FreqW Acc: 0.915671
+Mean IoU: 0.915021
+
+Epoch 47, lr = 0.000010
+Epoch 47, Batch 30/40, Loss=0.005074
+End of Epoch 47/50, Average Loss=0.000129
+validate on val set...
+
+Overall Acc: 0.955700
+Mean Acc: 0.955193
+FreqW Acc: 0.915314
+Mean IoU: 0.914660
+
+Epoch 48, lr = 0.000010
+Epoch 48, Batch 30/40, Loss=0.004704
+End of Epoch 48/50, Average Loss=0.000124
+validate on val set...
+
+Overall Acc: 0.955700
+Mean Acc: 0.955211
+FreqW Acc: 0.915312
+Mean IoU: 0.914669
+
+Epoch 49, lr = 0.000001
+Epoch 49, Batch 30/40, Loss=0.004937
+End of Epoch 49/50, Average Loss=0.000122
+validate on val set...
+
+Overall Acc: 0.955700
+Mean Acc: 0.955211
+FreqW Acc: 0.915312
+Mean IoU: 0.914669
+
